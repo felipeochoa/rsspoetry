@@ -1,0 +1,3 @@
+(executable
+  (name rsspoetry)
+  (libraries cohttp-lwt-unix conduit-lwt))

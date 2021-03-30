@@ -1,0 +1,29 @@
+#+TITLE:RSS Poetry notes
+
+* Tech
+** Write it in ocaml
+** =cohttp= for server using Lwt
+** TyXML for HTML templates
+** TODO Hand roll XML?
+** Use RSS2.0
+*** =content:encoded= for full text
+** UI
+*** RSS links
+    Have the urls be rsspoetry.com/author/startdate+time/. Today's date - startdate indicates how deep
+    into the collection it is; return the latest 5 entries then.
+
+    Save the files as material/author/number.xml, with XML fragments for each entry
+    pre-serialized. Then in the server generate the framing XML, insert the fragments and return
+*** Landing page
+    Select an author, which reveals the URL for that author starting today
+* Poetry
+** Pre-1926 is in public domain
+** Robert Frost
+** Emily Dickinson
+** Shakespeare's sonnets
+** Edgar Allan Poe
+** Pablo Neruda
+** Langston Hughes
+** Walt Whitman
+** Rudyard Kipling
+** John Keats
