@@ -28,7 +28,6 @@ let get_feed uri_path =
   let+ date = Date.of_string date_s
   in Some (author_s, date)
 
-
 (* Like Array.fold_left, but including an index argument *)
 let fold_left_i fn init arr =
   let i = ref (-1) in Array.fold_left (fun acc elt -> i := !i + 1; fn !i acc elt) init arr
@@ -37,7 +36,7 @@ type poem = {name : string; text: string; author: string}
 
 type rss_item = {title: string; pub_date: Date.t; creator: string; guid: string; description: string; content: string}
 
-let xml_gen items =
+let xml_gen feed_path items =
   let buf = Buffer.create 10000 in
   Buffer.add_string buf "<?xml version='1.0' encoding='UTF-8'?>";
   Xml.write_element buf @@
@@ -51,6 +50,9 @@ let xml_gen items =
         Xml.tag "channel" [] @@
           List.append [
             Xml.tag "title" [] [Xml.text "RSS Poetry"];
+            Xml.tag "atom:link" ["href", "https://readinrss.com" ^ feed_path;
+                                 "rel", "self";
+                                 "type", "application/rss+xml"] [];
             Xml.tag "link" [] [Xml.text "https://rsspoetry.com"];
 	    Xml.tag "description" [] [Xml.text "Daily poem"];
 	    Xml.tag "lastBuildDate" [] [Xml.text (Date.rfc2822 @@ Date.today ())];
@@ -105,7 +107,8 @@ let data = load_data Sys.argv.(1)
 
 let server =
   let body_fn req =
-    let+ (author, date) = req |> Request.uri |> Uri.path |> get_feed in
+    let path = req |> Request.uri |> Uri.path in
+    let+ (author, date) = get_feed path in
     let+ all_articles = List.assoc_opt author data in
     let num_articles = (1 + Date.days_between date (Date.today ()) |> (max 0) |> (min (Array.length all_articles))) in
     let articles = Array.sub all_articles 0 num_articles in
@@ -119,14 +122,14 @@ let server =
         title = article.name;
         pub_date;
         creator = article.author;
-        guid = "";
+        guid = Printf.sprintf "/%s/%s" article.author article.name;
         description = "Poem " ^ string_of_int i;
         content = article.text;
       }
     in
     articles
     |> Array.mapi (fun i a -> item_of_article a (next_day ()) i )
-    |> xml_gen
+    |> xml_gen path
     |> Option.some
   in
   let callback _conn req _body =
