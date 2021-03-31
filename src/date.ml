@@ -39,14 +39,7 @@ let of_string date_s =
 let rfc2822 {year; month; day} =
   let pad0 d = (if d < 10 then "0" else "") ^ string_of_int d in
   let month_names = [|"Jan"; "Feb"; "Mar"; "Apr"; "May"; "Jun"; "Jul"; "Aug"; "Sep"; "Oct"; "Nov"; "Dec"|] in
-  let day_names = [|"Mon"; "Tue"; "Wed"; "Thu"; "Fri"; "Sat"; "Sun"|] in
-  let weekday =
-    let offsets = [|0; 3; 2; 5; 0; 3; 5; 1; 4; 6; 2; 4|] in
-    let y = if month < 3 then year - 1 else year in
-    let num = (y + y/4 - y/100 + y/400 + offsets.(month - 1) + day) mod 7 in
-    day_names.(num)
-  in
-  Printf.sprintf "%s, %s %s %d 00:00:00 GMT" weekday (pad0 day) (month_names.(month)) year
+  Printf.sprintf "%s %s %d 00:00:00 GMT" (pad0 day) (month_names.(month - 1)) year
 
 let days_between d1 d2 =
   let julian_day_number {year; month; day} =
