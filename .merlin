@@ -1,2 +1,5 @@
+S ./src
+B ./_build/default/**
+
 PKG cohttp-lwt-unix
 PKG conduit-lwt
