@@ -106,17 +106,17 @@ let server =
       day := Date.incr_date !day;
       ret
     in
-    let item_of_article author pub_date i (article : Library.poem) = {
+    let item_of_article author pub_date (article : Library.poem) = {
         title = article.title;
         pub_date;
         creator = author;
         guid = article.id;
-        description = "Poem " ^ string_of_int i;
+        description = "“" ^ article.title ^ "” by " ^ author;
         content = article.content;
       }
     in
     articles
-    |> List.mapi @@ item_of_article (List.assoc author_id author_names) (next_day ())
+    |> List.map @@ item_of_article (List.assoc author_id author_names) (next_day ())
     |> xml_gen path
     |> Option.some
   in
