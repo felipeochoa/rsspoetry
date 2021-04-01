@@ -35,7 +35,7 @@ let fold_left_i fn init arr =
 (* Return a list of just the first i elements. If not enough elements, return the whole list. *)
 let take i list =
   let rec take_tail_rec i list acc =
-    if i = 0 then []
+    if i = 0 then List.rev acc
     else match list with
          | [] -> List.rev acc
          | h :: t -> take_tail_rec (i - 1) t (h :: acc)
