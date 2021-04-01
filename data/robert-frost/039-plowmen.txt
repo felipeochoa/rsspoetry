@@ -1,0 +1,14 @@
+Plowmen
+---
+<article id="plowmen" epub:type="z3998:poem">
+  <h3 epub:type="title">Plowmen</h3>
+  <p>
+    <span>A plow, they say, to plow the snow.</span>
+    <br/>
+    <span>They cannot mean to plant it, though⁠—</span>
+    <br/>
+    <span>Unless in bitterness to mock</span>
+    <br/>
+    <span>At having cultivated rock.</span>
+  </p>
+</article>

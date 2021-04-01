@@ -1,0 +1,564 @@
+Two Witches
+---
+<article id="two-witches" epub:type="z3998:poem">
+  <h3 epub:type="title">Two Witches</h3>
+  <section id="the-witch-of-coos" epub:type="part">
+    <header>
+      <hgroup>
+	<h4 epub:type="ordinal z3998:roman">I</h4>
+	<h5 epub:type="title">The Witch of Coös</h5>
+      </hgroup>
+      <p epub:type="bridgehead">Circa 1922.</p>
+    </header>
+    <p>
+      <span>I staid the night for shelter at a farm</span>
+      <br/>
+      <span>Behind the mountain, with a mother and son,</span>
+      <br/>
+      <span>Two old-believers. They did all the talking.</span>
+    </p>
+    <p>
+      <span class="i1"><i>Mother.</i> Folks think a witch who has familiar spirits</span>
+      <br/>
+      <span>She could call up to pass a winter evening,</span>
+      <br/>
+      <span>But won’t, should be burned at the stake or something.</span>
+      <br/>
+      <span>Summoning spirits isn’t “Button, button,</span>
+      <br/>
+      <span>Who’s got the button,” I would have them know.</span>
+    </p>
+    <p>
+      <span class="i1"><i>Son.</i> Mother can make a common table rear</span>
+      <br/>
+      <span>And kick with two legs like an army mule.</span>
+    </p>
+    <p>
+      <span class="i1"><i>Mother.</i> And when I’ve done it, what good have I done?</span>
+      <br/>
+      <span>Rather than tip a table for you, let me</span>
+      <br/>
+      <span>Tell you what Ralle the Sioux Control once told me.</span>
+      <br/>
+      <span>He said the dead had souls, but when I asked him</span>
+      <br/>
+      <span>How could that be⁠—I thought the dead were souls,</span>
+      <br/>
+      <span>He broke my trance. Don’t that make you suspicious</span>
+      <br/>
+      <span>That there’s something the dead are keeping back?</span>
+      <br/>
+      <span>Yes, there’s something the dead are keeping back.</span>
+    </p>
+    <p>
+      <span class="i1"><i>Son.</i> You wouldn’t want to tell him what we have</span>
+      <br/>
+      <span>Up attic, mother?</span>
+    </p>
+    <p>
+      <span class="i1"><i>Mother.</i> Bones⁠—a skeleton.</span>
+    </p>
+    <p>
+      <span class="i1"><i>Son.</i> But the headboard of mother’s bed is pushed</span>
+      <br/>
+      <span>Against the attic door: the door is nailed.</span>
+      <br/>
+      <span>It’s harmless. Mother hears it in the night</span>
+      <br/>
+      <span>Halting perplexed behind the barrier</span>
+      <br/>
+      <span>Of door and headboard. Where it wants to get</span>
+      <br/>
+      <span>Is back into the cellar where it came from.</span>
+    </p>
+    <p>
+      <span class="i1"><i>Mother.</i> We’ll never let them, will we, son? We’ll never!</span>
+    </p>
+    <p>
+      <span class="i1"><i>Son.</i> It left the cellar forty years ago</span>
+      <br/>
+      <span>And carried itself like a pile of dishes</span>
+      <br/>
+      <span>Up one flight from the cellar to the kitchen,</span>
+      <br/>
+      <span>Another from the kitchen to the bedroom,</span>
+      <br/>
+      <span>Another from the bedroom to the attic,</span>
+      <br/>
+      <span>Right past both father and mother, and neither stopped it.</span>
+      <br/>
+      <span>Father had gone upstairs; mother was downstairs.</span>
+      <br/>
+      <span>I was a baby: I don’t know where I was.</span>
+    </p>
+    <p>
+      <span class="i1"><i>Mother.</i> The only fault my husband found with me⁠—</span>
+      <br/>
+      <span>I went to sleep before I went to bed,</span>
+      <br/>
+      <span>Especially in winter when the bed</span>
+      <br/>
+      <span>Might just as well be ice and the clothes snow.</span>
+      <br/>
+      <span>The night the bones came up the cellar-stairs</span>
+      <br/>
+      <span>Toffile had gone to bed alone and left me,</span>
+      <br/>
+      <span>But left an open door to cool the room off</span>
+      <br/>
+      <span>So as to sort of turn me out of it.</span>
+      <br/>
+      <span>I was just coming to myself enough</span>
+      <br/>
+      <span>To wonder where the cold was coming from,</span>
+      <br/>
+      <span>When I heard Toffile upstairs in the bedroom</span>
+      <br/>
+      <span>And thought I heard him downstairs in the cellar.</span>
+      <br/>
+      <span>The board we had laid down to walk dry-shod on</span>
+      <br/>
+      <span>When there was water in the cellar in spring</span>
+      <br/>
+      <span>Struck the hard cellar bottom. And then someone</span>
+      <br/>
+      <span>Began the stairs, two footsteps for each step,</span>
+      <br/>
+      <span>The way a man with one leg and a crutch,</span>
+      <br/>
+      <span>Or a little child, comes up. It wasn’t Toffile:</span>
+      <br/>
+      <span>It wasn’t anyone who could be there.</span>
+      <br/>
+      <span>The bulkhead double-doors were double-locked</span>
+      <br/>
+      <span>And swollen tight and buried under snow.</span>
+      <br/>
+      <span>The cellar windows were banked up with sawdust</span>
+      <br/>
+      <span>And swollen tight and buried under snow.</span>
+      <br/>
+      <span>It was the bones. I knew them⁠—and good reason.</span>
+      <br/>
+      <span>My first impulse was to get to the knob</span>
+      <br/>
+      <span>And hold the door. But the bones didn’t try</span>
+      <br/>
+      <span>The door; they halted helpless on the landing,</span>
+      <br/>
+      <span>Waiting for things to happen in their favor.</span>
+      <br/>
+      <span>The faintest restless rustling ran all through them.</span>
+      <br/>
+      <span>I never could have done the thing I did</span>
+      <br/>
+      <span>If the wish hadn’t been too strong in me</span>
+      <br/>
+      <span>To see how they were mounted for this walk.</span>
+      <br/>
+      <span>I had a vision of them put together</span>
+      <br/>
+      <span>Not like a man, but like a chandelier.</span>
+      <br/>
+      <span>So suddenly I flung the door wide on him.</span>
+      <br/>
+      <span>A moment he stood balancing with emotion,</span>
+      <br/>
+      <span>And all but lost himself. (A tongue of fire</span>
+      <br/>
+      <span>Flashed out and licked along his upper teeth.</span>
+      <br/>
+      <span>Smoke rolled inside the sockets of his eyes.)</span>
+      <br/>
+      <span>Then he came at me with one hand outstretched,</span>
+      <br/>
+      <span>The way he did in life once; but this time</span>
+      <br/>
+      <span>I struck the hand off brittle on the floor,</span>
+      <br/>
+      <span>And fell back from him on the floor myself.</span>
+      <br/>
+      <span>The finger-pieces slid in all directions.</span>
+      <br/>
+      <span>(Where did I see one of those pieces lately?</span>
+      <br/>
+      <span>Hand me my button-box⁠—it must be there.)</span>
+      <br/>
+      <span>I sat up on the floor and shouted, “Toffile,</span>
+      <br/>
+      <span>It’s coming up to you.” It had its choice</span>
+      <br/>
+      <span>Of the door to the cellar or the hall.</span>
+      <br/>
+      <span>It took the hall door for the novelty,</span>
+      <br/>
+      <span>And set off briskly for so slow a thing,</span>
+      <br/>
+      <span>Still going every which way in the joints, though,</span>
+      <br/>
+      <span>So that it looked like lightning or a scribble,</span>
+      <br/>
+      <span>From the slap I had just now given its hand.</span>
+      <br/>
+      <span>I listened till it almost climbed the stairs</span>
+      <br/>
+      <span>From the hall to the only finished bedroom,</span>
+      <br/>
+      <span>Before I got up to do anything;</span>
+      <br/>
+      <span>Then ran and shouted, “Shut the bedroom door,</span>
+      <br/>
+      <span>Toffile, for my sake!” “Company,” he said,</span>
+      <br/>
+      <span>“Don’t make me get up; I’m too warm in bed.”</span>
+      <br/>
+      <span>So lying forward weakly on the handrail</span>
+      <br/>
+      <span>I pushed myself upstairs, and in the light</span>
+      <br/>
+      <span>(The kitchen had been dark) I had to own</span>
+      <br/>
+      <span>I could see nothing. “Toffile, I don’t see it.</span>
+      <br/>
+      <span>It’s with us in the room though. It’s the bones.”</span>
+      <br/>
+      <span>“What bones?” “The cellar bones⁠—out of the grave.”</span>
+      <br/>
+      <span>That made him throw his bare legs out of bed</span>
+      <br/>
+      <span>And sit up by me and take hold of me.</span>
+      <br/>
+      <span>I wanted to put out the light and see</span>
+      <br/>
+      <span>If I could see it, or else mow the room,</span>
+      <br/>
+      <span>With our arms at the level of our knees,</span>
+      <br/>
+      <span>And bring the chalk-pile down. “I’ll tell you what⁠—</span>
+      <br/>
+      <span>It’s looking for another door to try.</span>
+      <br/>
+      <span>The uncommonly deep snow has made him think</span>
+      <br/>
+      <span>Of his old song, ‘The Wild Colonial Boy,’</span>
+      <br/>
+      <span>He always used to sing along the tote-road.</span>
+      <br/>
+      <span>He’s after an open door to get out-doors.</span>
+      <br/>
+      <span>Let’s trap him with an open door up attic.”</span>
+      <br/>
+      <span>Toffile agreed to that, and sure enough,</span>
+      <br/>
+      <span>Almost the moment he was given an opening,</span>
+      <br/>
+      <span>The steps began to climb the attic stairs.</span>
+      <br/>
+      <span>I heard them. Toffile didn’t seem to hear them.</span>
+      <br/>
+      <span>“Quick!” I slammed to the door and held the knob.</span>
+      <br/>
+      <span>“Toffile, get nails.” I made him nail the door shut,</span>
+      <br/>
+      <span>And push the headboard of the bed against it.</span>
+      <br/>
+      <span>Then we asked was there anything</span>
+      <br/>
+      <span>Up attic that we’d ever want again.</span>
+      <br/>
+      <span>The attic was less to us than the cellar.</span>
+      <br/>
+      <span>If the bones liked the attic, let them have it,</span>
+      <br/>
+      <span>Let them stay in the attic. When they sometimes</span>
+      <br/>
+      <span>Come down the stairs at night and stand perplexed</span>
+      <br/>
+      <span>Behind the door and headboard of the bed,</span>
+      <br/>
+      <span>Brushing their chalky skull with chalky fingers,</span>
+      <br/>
+      <span>With sounds like the dry rattling of a shutter,</span>
+      <br/>
+      <span>That’s what I sit up in the dark to say⁠—</span>
+      <br/>
+      <span>To no one any more since Toffile died.</span>
+      <br/>
+      <span>Let them stay in the attic since they went there.</span>
+      <br/>
+      <span>I promised Toffile to be cruel to them</span>
+      <br/>
+      <span>For helping them be cruel once to him.</span>
+    </p>
+    <p>
+      <span class="i1"><i>Son.</i> We think they had a grave down in the cellar.</span>
+    </p>
+    <p>
+      <span class="i1"><i>Mother.</i> We know they had a grave down in the cellar.</span>
+    </p>
+    <p>
+      <span class="i1"><i>Son.</i> We never could find out whose bones they were.</span>
+    </p>
+    <p>
+      <span class="i1"><i>Mother.</i> Yes, we could too, son. Tell the truth for once.</span>
+      <br/>
+      <span>They were a man’s his father killed for me.</span>
+      <br/>
+      <span>I mean a man he killed instead of me.</span>
+      <br/>
+      <span>The least I could do was to help dig their grave.</span>
+      <br/>
+      <span>We were about it one night in the cellar.</span>
+      <br/>
+      <span>Son knows the story: but ’twas not for him</span>
+      <br/>
+      <span>To tell the truth, suppose the time had come.</span>
+      <br/>
+      <span>Son looks surprised to see me end a lie</span>
+      <br/>
+      <span>We’d kept all these years between ourselves</span>
+      <br/>
+      <span>So as to have it ready for outsiders.</span>
+      <br/>
+      <span>But tonight I don’t care enough to lie⁠—</span>
+      <br/>
+      <span>I don’t remember why I ever cared.</span>
+      <br/>
+      <span>Toffile, if he were here, I don’t believe</span>
+      <br/>
+      <span>Could tell you why he ever cared himself⁠ ⁠…</span>
+    </p>
+    <p>
+      <span>She hadn’t found the finger-bone she wanted</span>
+      <br/>
+      <span>Among the buttons poured out in her lap.</span>
+      <br/>
+      <span>I verified the name next morning: Toffile.</span>
+      <br/>
+      <span>The rural letter-box said Toffile Lajway.</span>
+    </p>
+  </section>
+  <section id="the-pauper-witch-of-grafton" epub:type="part">
+    <hgroup>
+      <h4 epub:type="ordinal z3998:roman">II</h4>
+      <h5 epub:type="title">The Pauper Witch of Grafton</h5>
+    </hgroup>
+    <p>
+      <span>Now that they’ve got it settled whose I be,</span>
+      <br/>
+      <span>I’m going to tell them something they won’t like:</span>
+      <br/>
+      <span>They’ve got it settled wrong, and I can prove it.</span>
+      <br/>
+      <span>Flattered I must be to have two towns fighting</span>
+      <br/>
+      <span>To make a present of me to each other.</span>
+      <br/>
+      <span>They don’t dispose me, either one of them,</span>
+      <br/>
+      <span>To spare them any trouble. Double trouble’s</span>
+      <br/>
+      <span>Always the witch’s motto anyway.</span>
+      <br/>
+      <span>I’ll double theirs for both of them⁠—you watch me.</span>
+      <br/>
+      <span>They’ll find they’ve got the whole thing to do over,</span>
+      <br/>
+      <span>That is, if facts is what they want to go by.</span>
+      <br/>
+      <span>They set a lot (now don’t they?) by a record</span>
+      <br/>
+      <span>Of Arthur Amy’s having once been up</span>
+      <br/>
+      <span>For Hog Reeve in March Meeting here in Warren.</span>
+      <br/>
+      <span>I could have told them any time this twelvemonth</span>
+      <br/>
+      <span>The Arthur Amy I was married to</span>
+      <br/>
+      <span>Couldn’t have been the one they say was up</span>
+      <br/>
+      <span>In Warren at March Meeting for the reason</span>
+      <br/>
+      <span>He wa’n’t but fifteen at the time they say.</span>
+      <br/>
+      <span>The Arthur Amy I was married to</span>
+      <br/>
+      <span>Voted the only times he ever voted,</span>
+      <br/>
+      <span>Which wasn’t many, in the town of Wentworth.</span>
+      <br/>
+      <span>One of the times was when ’twas in the warrant</span>
+      <br/>
+      <span>To see if the town wanted to take over</span>
+      <br/>
+      <span>The tote road to our clearing where we lived.</span>
+      <br/>
+      <span>I’ll tell you who’d remember⁠—Heman Lapish.</span>
+      <br/>
+      <span>Their Arthur Amy was the father of mine.</span>
+      <br/>
+      <span>So now they’ve dragged it through the law courts once</span>
+      <br/>
+      <span>I guess they’d better drag it through again.</span>
+      <br/>
+      <span>Wentworth and Warren’s both good towns to live in,</span>
+      <br/>
+      <span>Only I happen to prefer to live</span>
+      <br/>
+      <span>In Wentworth from now on; and when all’s said,</span>
+      <br/>
+      <span>Right’s right, and the temptation to do right</span>
+      <br/>
+      <span>When I can hurt someone by doing it</span>
+      <br/>
+      <span>Has always been too much for me, it has.</span>
+      <br/>
+      <span>I know of some folks that’d be set up</span>
+      <br/>
+      <span>At having in their town a noted witch:</span>
+      <br/>
+      <span>But most would have to think of the expense</span>
+      <br/>
+      <span>That even I would be. They ought to know</span>
+      <br/>
+      <span>That as a witch I’d often milk a bat</span>
+      <br/>
+      <span>And that’d be enough to last for days.</span>
+      <br/>
+      <span>It’d make my position stronger, think,</span>
+      <br/>
+      <span>If I was to consent to give some sign</span>
+      <br/>
+      <span>To make it surer that I was a witch?</span>
+      <br/>
+      <span>It wa’n’t no sign, I s’pose, when Mallice Huse</span>
+      <br/>
+      <span>Said that I took him out in his old age</span>
+      <br/>
+      <span>And rode all over everything on him</span>
+      <br/>
+      <span>Until I’d had him worn to skin and bones.</span>
+      <br/>
+      <span>And if I’d left him hitched unblanketed</span>
+      <br/>
+      <span>In front of one Town Hall, I’d left him hitched</span>
+      <br/>
+      <span>In front of every one in Grafton County.</span>
+      <br/>
+      <span>Some cried shame on me not to blanket him,</span>
+      <br/>
+      <span>The poor old man. It would have been all right</span>
+      <br/>
+      <span>If some one hadn’t said to gnaw the posts</span>
+      <br/>
+      <span>He stood beside and leave his trade mark on them,</span>
+      <br/>
+      <span>So they could recognize them. Not a post</span>
+      <br/>
+      <span>That they could hear tell of was scarified.</span>
+      <br/>
+      <span>They made him keep on gnawing till he whined.</span>
+      <br/>
+      <span>Then that same smarty someone said to look⁠—</span>
+      <br/>
+      <span>He’d bet Huse was a cribber and had gnawed</span>
+      <br/>
+      <span>The crib he slept in⁠—and as sure’s you’re born</span>
+      <br/>
+      <span>They found he’d gnawed the four posts of his bed,</span>
+      <br/>
+      <span>All four of them to splinters. What did that prove?</span>
+      <br/>
+      <span>Not that he hadn’t gnawed the hitching posts</span>
+      <br/>
+      <span>He said he had besides. Because a horse</span>
+      <br/>
+      <span>Gnaws in the stable ain’t no proof to me</span>
+      <br/>
+      <span>He don’t gnaw trees and posts and fences too.</span>
+      <br/>
+      <span>But everybody took it for a proof.</span>
+      <br/>
+      <span>I was a strapping girl of twenty then.</span>
+      <br/>
+      <span>The smarty someone who spoiled everything</span>
+      <br/>
+      <span>Was Arthur Amy. You know who he was.</span>
+      <br/>
+      <span>That was the way he started courting me.</span>
+      <br/>
+      <span>He never said much after we were married,</span>
+      <br/>
+      <span>But I mistrusted he was none too proud</span>
+      <br/>
+      <span>Of having interfered in the Huse business.</span>
+      <br/>
+      <span>I guess he found he got more out of me</span>
+      <br/>
+      <span>By having me a witch. Or something happened</span>
+      <br/>
+      <span>To turn him round. He got to saying things</span>
+      <br/>
+      <span>To undo what he’d done and make it right,</span>
+      <br/>
+      <span>Like, “No, she ain’t come back from kiting yet.</span>
+      <br/>
+      <span>Last night was one of her nights out. She’s kiting.</span>
+      <br/>
+      <span>She thinks when the wind makes a night of it</span>
+      <br/>
+      <span>She might as well herself.” But he liked best</span>
+      <br/>
+      <span>To let on he was plagued to death with me:</span>
+      <br/>
+      <span>If anyone had seen me coming home</span>
+      <br/>
+      <span>Over the ridgepole, ’stride of a broomstick,</span>
+      <br/>
+      <span>As often as he had in the tail of the night,</span>
+      <br/>
+      <span>He guessed they’d know what he had to put up with.</span>
+      <br/>
+      <span>Well, I showed Arthur Amy signs enough</span>
+      <br/>
+      <span>Off from the house as far as we could keep</span>
+      <br/>
+      <span>And from barn smells you can’t wash out of ploughed ground</span>
+      <br/>
+      <span>With all the rain and snow of seven years;</span>
+      <br/>
+      <span>And I don’t mean just skulls of Roger’s Rangers</span>
+      <br/>
+      <span>On Moosilauke, but woman signs to man,</span>
+      <br/>
+      <span>Only bewitched so I would last him longer.</span>
+      <br/>
+      <span>Up where the trees grow short, the mosses tall,</span>
+      <br/>
+      <span>I made him gather me wet snow berries</span>
+      <br/>
+      <span>On slippery rocks beside a waterfall.</span>
+      <br/>
+      <span>I made him do it for me in the dark.</span>
+      <br/>
+      <span>And he liked everything I made him do.</span>
+      <br/>
+      <span>I hope if he is where he sees me now</span>
+      <br/>
+      <span>He’s so far off he can’t see what I’ve come to.</span>
+      <br/>
+      <span>You <em>can</em> come down from everything to nothing.</span>
+      <br/>
+      <span>All is, if I’d a-known when I was young</span>
+      <br/>
+      <span>And full of it, that this would be the end,</span>
+      <br/>
+      <span>It doesn’t seem as if I’d had the courage</span>
+      <br/>
+      <span>To make so free and kick up in folks’ faces.</span>
+      <br/>
+      <span>I might have, but it doesn’t seem as if.</span>
+    </p>
+  </section>
+</article>

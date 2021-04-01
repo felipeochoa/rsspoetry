@@ -1,0 +1,46 @@
+The Valley’s Singing Day
+---
+<article id="the-valleys-singing-day" epub:type="z3998:poem">
+  <h3 epub:type="title">The Valley’s Singing Day</h3>
+  <p>
+    <span>The sound of the closing outside door was all.</span>
+    <br/>
+    <span>You made no sound in the grass with your footfall,</span>
+    <br/>
+    <span>As far as you went from the door, which was not far;</span>
+    <br/>
+    <span>But you had awakened under the morning star</span>
+    <br/>
+    <span>The first song-bird that awakened all the rest.</span>
+    <br/>
+    <span>He could have slept but a moment more at best.</span>
+    <br/>
+    <span>Already determined dawn began to lay</span>
+    <br/>
+    <span>In place across a cloud the slender ray</span>
+    <br/>
+    <span>For prying beneath and forcing the lids of sight,</span>
+    <br/>
+    <span>And loosing the pent-up music of over-night.</span>
+    <br/>
+    <span>But dawn was not to begin their “pearly-pearly”</span>
+    <br/>
+    <span>(By which they mean the rain is pearls so early,</span>
+    <br/>
+    <span>Before it changes to diamonds in the sun),</span>
+    <br/>
+    <span>Neither was song that day to be self-begun.</span>
+    <br/>
+    <span>You had begun it, and if there needed proof⁠—</span>
+    <br/>
+    <span>I was asleep still under the dripping roof,</span>
+    <br/>
+    <span>My window curtain hung over the sill to wet;</span>
+    <br/>
+    <span>But I should awake to confirm your story yet;</span>
+    <br/>
+    <span>I should be willing to say and help you say</span>
+    <br/>
+    <span>That once you had opened the valley’s singing day.</span>
+  </p>
+</article>

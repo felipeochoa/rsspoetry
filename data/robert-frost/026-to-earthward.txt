@@ -1,0 +1,77 @@
+To Earthward
+---
+<article id="to-earthward" epub:type="z3998:poem">
+  <h3 epub:type="title">To Earthward</h3>
+  <p>
+    <span>Love at the lips was touch</span>
+    <br/>
+    <span>As sweet as I could bear;</span>
+    <br/>
+    <span>And once that seemed too much;</span>
+    <br/>
+    <span>I lived on air</span>
+  </p>
+  <p>
+    <span>That crossed me from sweet things,</span>
+    <br/>
+    <span>The flow of⁠—was it musk</span>
+    <br/>
+    <span>From hidden grapevine springs</span>
+    <br/>
+    <span>Down hill at dusk?</span>
+  </p>
+  <p>
+    <span>I had the swirl and ache</span>
+    <br/>
+    <span>From sprays of honeysuckle</span>
+    <br/>
+    <span>That when they’re gathered shake</span>
+    <br/>
+    <span>Dew on the knuckle.</span>
+  </p>
+  <p>
+    <span>I craved strong sweets, but those</span>
+    <br/>
+    <span>Seemed strong when I was young;</span>
+    <br/>
+    <span>The petal of the rose</span>
+    <br/>
+    <span>It was that stung.</span>
+  </p>
+  <p>
+    <span>Now no joy but lacks salt</span>
+    <br/>
+    <span>That is not dashed with pain</span>
+    <br/>
+    <span>And weariness and fault;</span>
+    <br/>
+    <span>I crave the stain</span>
+  </p>
+  <p>
+    <span>Of tears, the aftermark</span>
+    <br/>
+    <span>Of almost too much love,</span>
+    <br/>
+    <span>The sweet of bitter bark</span>
+    <br/>
+    <span>And burning clove.</span>
+  </p>
+  <p>
+    <span>When stiff and sore and scarred</span>
+    <br/>
+    <span>I take away my hand</span>
+    <br/>
+    <span>From leaning on it hard</span>
+    <br/>
+    <span>In grass and sand,</span>
+  </p>
+  <p>
+    <span>The hurt is not enough:</span>
+    <br/>
+    <span>I long for weight and strength</span>
+    <br/>
+    <span>To feel the earth as rough</span>
+    <br/>
+    <span>To all my length.</span>
+  </p>
+</article>

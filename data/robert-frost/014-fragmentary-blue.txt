@@ -1,0 +1,23 @@
+Fragmentary Blue
+---
+<article id="fragmentary-blue" epub:type="z3998:poem">
+  <h3 epub:type="title">Fragmentary Blue</h3>
+  <p>
+    <span>Why make so much of fragmentary blue</span>
+    <br/>
+    <span>In here and there a bird, or butterfly,</span>
+    <br/>
+    <span>Or flower, or wearing-stone, or open eye,</span>
+    <br/>
+    <span>When heaven presents in sheets the solid hue?</span>
+  </p>
+  <p>
+    <span>Since earth is earth, perhaps, not heaven (as yet)⁠—</span>
+    <br/>
+    <span>Though some savants make earth include the sky;</span>
+    <br/>
+    <span>And blue so far above us comes so high,</span>
+    <br/>
+    <span>It only gives our wish for blue a whet.</span>
+  </p>
+</article>

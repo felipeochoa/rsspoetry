@@ -1,0 +1,32 @@
+A Boundless Moment
+---
+<article id="a-boundless-moment" epub:type="z3998:poem">
+  <h3 epub:type="title">A Boundless Moment</h3>
+  <p>
+    <span>He halted in the wind, and⁠—what was that</span>
+    <br/>
+    <span>Far in the maples, pale, but not a ghost?</span>
+    <br/>
+    <span>He stood there bringing March against his thought,</span>
+    <br/>
+    <span>And yet too ready to believe the most.</span>
+  </p>
+  <p>
+    <span>“Oh, that’s the Paradise-in-bloom,” I said;</span>
+    <br/>
+    <span>And truly it was fair enough for flowers</span>
+    <br/>
+    <span>Had we but in us to assume in March</span>
+    <br/>
+    <span>Such white luxuriance of May for ours.</span>
+  </p>
+  <p>
+    <span>We stood a moment so in a strange world,</span>
+    <br/>
+    <span>Myself as one his own pretense deceives;</span>
+    <br/>
+    <span>And then I said the truth (and we moved on):</span>
+    <br/>
+    <span>A young beech clinging to its last year’s leaves.</span>
+  </p>
+</article>

@@ -1,0 +1,162 @@
+The Grindstone
+---
+<article id="the-grindstone" epub:type="z3998:poem">
+  <h3 epub:type="title">The Grindstone</h3>
+  <p>
+    <span>Having a wheel and four legs of its own</span>
+    <br/>
+    <span>Has never availed the cumbersome grindstone</span>
+    <br/>
+    <span>To get it anywhere that I can see.</span>
+    <br/>
+    <span>These hands have helped it go, and even race;</span>
+    <br/>
+    <span>Not all the motion, though, they ever lent,</span>
+    <br/>
+    <span>Not all the miles it may have thought it went,</span>
+    <br/>
+    <span>Have got it one step from the starting place.</span>
+    <br/>
+    <span>It stands beside the same old apple tree.</span>
+    <br/>
+    <span>The shadow of the apple tree is thin</span>
+    <br/>
+    <span>Upon it now, its feet are fast in snow.</span>
+    <br/>
+    <span>All other farm machinery’s gone in,</span>
+    <br/>
+    <span>And some of it on no more legs and wheel</span>
+    <br/>
+    <span>Than the grindstone can boast to stand or go.</span>
+    <br/>
+    <span>(I’m thinking chiefly of the wheelbarrow.)</span>
+    <br/>
+    <span>For months it hasn’t known the taste of steel,</span>
+    <br/>
+    <span>Washed down with rusty water in a tin.</span>
+    <br/>
+    <span>But standing outdoors hungry, in the cold,</span>
+    <br/>
+    <span>Except in towns at night, is not a sin.</span>
+    <br/>
+    <span>And, anyway, its standing in the yard</span>
+    <br/>
+    <span>Under a ruinous live apple tree</span>
+    <br/>
+    <span>Has nothing any more to do with me,</span>
+    <br/>
+    <span>Except that I remember how of old</span>
+    <br/>
+    <span>One summer day, all day I drove it hard,</span>
+    <br/>
+    <span>And someone mounted on it rode it hard,</span>
+    <br/>
+    <span>And he and I between us ground a blade.</span>
+  </p>
+  <p>
+    <span>I gave it the preliminary spin,</span>
+    <br/>
+    <span>And poured on water (tears it might have been);</span>
+    <br/>
+    <span>And when it almost gayly jumped and flowed,</span>
+    <br/>
+    <span>A Father-Time-like man got on and rode,</span>
+    <br/>
+    <span>Armed with a scythe and spectacles that glowed.</span>
+    <br/>
+    <span>He turned on will-power to increase the load</span>
+    <br/>
+    <span>And slow me down⁠—and I abruptly slowed,</span>
+    <br/>
+    <span>Like coming to a sudden railroad station.</span>
+    <br/>
+    <span>I changed from hand to hand in desperation.</span>
+    <br/>
+    <span>I wondered what machine of ages gone</span>
+    <br/>
+    <span>This represented an improvement on.</span>
+    <br/>
+    <span>For all I knew it may have sharpened spears</span>
+    <br/>
+    <span>And arrowheads itself. Much use for years</span>
+    <br/>
+    <span>Had gradually worn it an oblate</span>
+    <br/>
+    <span>Spheroid that kicked and struggled in its gait,</span>
+    <br/>
+    <span>Appearing to return me hate for hate;</span>
+    <br/>
+    <span>(But I forgive it now as easily</span>
+    <br/>
+    <span>As any other boyhood enemy</span>
+    <br/>
+    <span>Whose pride has failed to get him anywhere).</span>
+    <br/>
+    <span>I wondered who it was the man thought ground⁠—</span>
+    <br/>
+    <span>The one who held the wheel back or the one</span>
+    <br/>
+    <span>Who gave his life to keep it going round?</span>
+    <br/>
+    <span>I wondered if he really thought it fair</span>
+    <br/>
+    <span>For him to have the say when we were done.</span>
+    <br/>
+    <span>Such were the bitter thoughts to which I turned.</span>
+  </p>
+  <p>
+    <span>Not for myself was I so much concerned.</span>
+    <br/>
+    <span>Oh no!⁠—although, of course, I could have found</span>
+    <br/>
+    <span>A better way to pass the afternoon</span>
+    <br/>
+    <span>Than grinding discord out of a grindstone,</span>
+    <br/>
+    <span>And beating insects at their gritty tune.</span>
+    <br/>
+    <span>Nor was I for the man so much concerned.</span>
+    <br/>
+    <span>Once when the grindstone almost jumped its bearing</span>
+    <br/>
+    <span>It looked as if he might be badly thrown</span>
+    <br/>
+    <span>And wounded on his blade. So far from caring,</span>
+    <br/>
+    <span>I laughed inside, and only cranked the faster,</span>
+    <br/>
+    <span>(It ran as if it wasn’t greased but glued);</span>
+    <br/>
+    <span>I’d welcome any moderate disaster</span>
+    <br/>
+    <span>That might be calculated to postpone</span>
+    <br/>
+    <span>What evidently nothing could conclude.</span>
+    <br/>
+    <span>The thing that made me more and more afraid</span>
+    <br/>
+    <span>Was that we’d ground it sharp and hadn’t known,</span>
+    <br/>
+    <span>And now were only wasting precious blade.</span>
+    <br/>
+    <span>And when he raised it dripping once and tried</span>
+    <br/>
+    <span>The creepy edge of it with wary touch,</span>
+    <br/>
+    <span>And viewed it over his glasses funny-eyed,</span>
+    <br/>
+    <span>Only disinterestedly to decide</span>
+    <br/>
+    <span>It needed a turn more, I could have cried</span>
+    <br/>
+    <span>Wasn’t there danger of a turn too much?</span>
+    <br/>
+    <span>Mightn’t we make it worse instead of better?</span>
+    <br/>
+    <span>I was for leaving something to the whetter.</span>
+    <br/>
+    <span>What if it wasn’t all it should be? I’d</span>
+    <br/>
+    <span>Be satisfied if he’d be satisfied.</span>
+  </p>
+</article>

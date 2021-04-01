@@ -1,0 +1,41 @@
+Misgiving
+---
+<article id="misgiving" epub:type="z3998:poem">
+  <h3 epub:type="title">Misgiving</h3>
+  <p>
+    <span>All crying “We will go with you, O Wind!”</span>
+    <br/>
+    <span>The foliage follow him, leaf and stem;</span>
+    <br/>
+    <span>But a sleep oppresses them as they go,</span>
+    <br/>
+    <span>And they end by bidding him stay with them.</span>
+  </p>
+  <p>
+    <span>Since ever they flung abroad in spring</span>
+    <br/>
+    <span>The leaves had promised themselves this flight,</span>
+    <br/>
+    <span>Who now would fain seek sheltering wall,</span>
+    <br/>
+    <span>Or thicket, or hollow place for the night.</span>
+  </p>
+  <p>
+    <span>And now they answer his summoning blast</span>
+    <br/>
+    <span>With an ever vaguer and vaguer stir,</span>
+    <br/>
+    <span>Or at utmost a little reluctant whirl</span>
+    <br/>
+    <span>That drops them no further than where they were.</span>
+  </p>
+  <p>
+    <span>I only hope that when I am free</span>
+    <br/>
+    <span>As they are free to go in quest</span>
+    <br/>
+    <span>Of the knowledge beyond the bounds of life</span>
+    <br/>
+    <span>It may not seem better to me to rest.</span>
+  </p>
+</article>

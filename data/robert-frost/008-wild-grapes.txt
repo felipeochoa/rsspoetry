@@ -1,0 +1,216 @@
+Wild Grapes
+---
+<article id="wild-grapes" epub:type="z3998:poem">
+  <h3 epub:type="title">Wild Grapes</h3>
+  <p>
+    <span>What tree may not the fig be gathered from?</span>
+    <br/>
+    <span>The grape may not be gathered from the birch?</span>
+    <br/>
+    <span>It’s all you know the grape, or know the birch.</span>
+    <br/>
+    <span>As a girl gathered from the birch myself</span>
+    <br/>
+    <span>Equally with my weight in grapes, one autumn,</span>
+    <br/>
+    <span>I ought to know what tree the grape is fruit of.</span>
+    <br/>
+    <span>I was born, I suppose, like anyone,</span>
+    <br/>
+    <span>And grew to be a little boyish girl</span>
+    <br/>
+    <span>My brother could not always leave at home.</span>
+    <br/>
+    <span>But that beginning was wiped out in fear</span>
+    <br/>
+    <span>The day I swung suspended with the grapes,</span>
+    <br/>
+    <span>And was come after like Eurydice</span>
+    <br/>
+    <span>And brought down safely from the upper regions;</span>
+    <br/>
+    <span>And the life I live now’s an extra life</span>
+    <br/>
+    <span>I can waste as I please on whom I please.</span>
+    <br/>
+    <span>So if you see me celebrate two birthdays,</span>
+    <br/>
+    <span>And give myself out as two different ages,</span>
+    <br/>
+    <span>One of them five years younger than I look⁠—</span>
+  </p>
+  <p>
+    <span>One day my brother led me to a glade</span>
+    <br/>
+    <span>Where a white birch he knew of stood alone,</span>
+    <br/>
+    <span>Wearing a thin head-dress of pointed leaves,</span>
+    <br/>
+    <span>And heavy on her heavy hair behind,</span>
+    <br/>
+    <span>Against her neck, an ornament of grapes.</span>
+    <br/>
+    <span>Grapes, I knew grapes from having seen them last year.</span>
+    <br/>
+    <span>One bunch of them, and there began to be</span>
+    <br/>
+    <span>Bunches all round me growing in white birches,</span>
+    <br/>
+    <span id="wild-grapes-line-27">The way they grew round Lief the Lucky’s German;</span>
+    <br/>
+    <span>Mostly as much beyond my lifted hands, though,</span>
+    <br/>
+    <span>As the moon used to seem when I was younger,</span>
+    <br/>
+    <span>And only freely to be had for climbing.</span>
+    <br/>
+    <span>My brother did the climbing; and at first</span>
+    <br/>
+    <span>Threw me down grapes to miss and scatter</span>
+    <br/>
+    <span>And have to hunt for in sweet fern and hardhack;</span>
+    <br/>
+    <span>Which gave him some time to himself to eat,</span>
+    <br/>
+    <span>But not so much, perhaps, as a boy needed.</span>
+    <br/>
+    <span>So then, to make me wholly self-supporting,</span>
+    <br/>
+    <span>He climbed still higher and bent the tree to earth,</span>
+    <br/>
+    <span>And put it in my hands to pick my own grapes.</span>
+    <br/>
+    <span>“Here, take a tree-top, I’ll get down another.</span>
+    <br/>
+    <span>Hold on with all your might when I let go.”</span>
+    <br/>
+    <span>I said I had the tree. It wasn’t true.</span>
+    <br/>
+    <span>The opposite was true. The tree had me.</span>
+    <br/>
+    <span>The minute it was left with me alone</span>
+    <br/>
+    <span>It caught me up as if I were the fish</span>
+    <br/>
+    <span>And it the fishpole. So I was translated</span>
+    <br/>
+    <span>To loud cries from my brother of “Let go!</span>
+    <br/>
+    <span>Don’t you know anything, you girl? Let go!”</span>
+    <br/>
+    <span>But I, with something of the baby grip</span>
+    <br/>
+    <span>Acquired ancestrally in just such trees</span>
+    <br/>
+    <span>When wilder mothers than our wildest now</span>
+    <br/>
+    <span>Hung babies out on branches by the hands</span>
+    <br/>
+    <span>To dry or wash or tan, I don’t know which</span>
+    <br/>
+    <span>(You’ll have to ask an evolutionist)⁠—</span>
+    <br/>
+    <span>I held on uncomplainingly for life.</span>
+    <br/>
+    <span>My brother tried to make me laugh to help me.</span>
+    <br/>
+    <span>“What are you doing up there in those grapes?</span>
+    <br/>
+    <span>Don’t be afraid. A few of them won’t hurt you.</span>
+    <br/>
+    <span>I mean, they won’t pick you if you don’t them.”</span>
+    <br/>
+    <span>Much danger of my picking anything!</span>
+  </p>
+  <p>
+    <span>By that time I was pretty well reduced</span>
+    <br/>
+    <span>To a philosophy of hang-and-let-hang.</span>
+    <br/>
+    <span>“Now you know how it feels,” my brother said,</span>
+    <br/>
+    <span>“To be a bunch of fox-grapes, as they call them,</span>
+    <br/>
+    <span>That when it thinks it has escaped the fox</span>
+    <br/>
+    <span>By growing where it shouldn’t⁠—on a birch,</span>
+    <br/>
+    <span>Where a fox wouldn’t think to look for it⁠—</span>
+    <br/>
+    <span>And if he looked and found it, couldn’t reach it⁠—</span>
+    <br/>
+    <span>Just then come you and I to gather it.</span>
+    <br/>
+    <span>Only you have the advantage of the grapes</span>
+    <br/>
+    <span>In one way: you have one more stem to cling by,</span>
+    <br/>
+    <span>And promise more resistance to the picker.”</span>
+  </p>
+  <p>
+    <span>One by one I lost off my hat and shoes,</span>
+    <br/>
+    <span>And still I clung. I let my head fall back,</span>
+    <br/>
+    <span>And shut my eyes against the sun, my ears</span>
+    <br/>
+    <span>Against my brother’s nonsense; “Drop,” he said,</span>
+    <br/>
+    <span>“I’ll catch you in my arms. It isn’t far.”</span>
+    <br/>
+    <span>(Stated in lengths of him it might not be.)</span>
+    <br/>
+    <span>“Drop or I’ll shake the tree and shake you down.”</span>
+    <br/>
+    <span>Grim silence on my part as I sank lower,</span>
+    <br/>
+    <span>My small wrists stretching till they showed the banjo strings.</span>
+    <br/>
+    <span>“Why, if she isn’t serious about it!</span>
+    <br/>
+    <span>Hold tight awhile till I think what to do.</span>
+    <br/>
+    <span>I’ll bend the tree down and let you down by it.”</span>
+    <br/>
+    <span>I don’t know much about the letting down;</span>
+    <br/>
+    <span>But once I felt ground with my stocking feet</span>
+    <br/>
+    <span>And the world came revolving back to me,</span>
+    <br/>
+    <span>I know I looked long at my curled-up fingers,</span>
+    <br/>
+    <span>Before I straightened them and brushed the bark off.</span>
+    <br/>
+    <span>My brother said: “Don’t you weigh anything?</span>
+    <br/>
+    <span>Try to weigh something next time, so you won’t</span>
+    <br/>
+    <span>Be run off with by birch trees into space.”</span>
+  </p>
+  <p>
+    <span>It wasn’t my not weighing anything</span>
+    <br/>
+    <span>So much as my not knowing anything⁠—</span>
+    <br/>
+    <span>My brother had been nearer right before.</span>
+    <br/>
+    <span>I had not taken the first step in knowledge;</span>
+    <br/>
+    <span>I had not learned to let go with the hands,</span>
+    <br/>
+    <span>As still I have not learned to with the heart,</span>
+    <br/>
+    <span>And have no wish to with the heart⁠—nor need,</span>
+    <br/>
+    <span>That I can see. The mind⁠—is not the heart.</span>
+    <br/>
+    <span>I may yet live, as I know others live,</span>
+    <br/>
+    <span>To wish in vain to let go with the mind⁠—</span>
+    <br/>
+    <span>Of cares, at night, to sleep; but nothing tells me</span>
+    <br/>
+    <span>That I need learn to let go with the heart.</span>
+  </p>
+</article>

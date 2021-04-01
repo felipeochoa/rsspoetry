@@ -1,0 +1,41 @@
+The Aim Was Song
+---
+<article id="the-aim-was-song" epub:type="z3998:poem">
+  <h3 epub:type="title">The Aim Was Song</h3>
+  <p>
+    <span>Before man came to blow it right</span>
+    <br/>
+    <span class="i1">The wind once blew itself untaught,</span>
+    <br/>
+    <span>And did its loudest day and night</span>
+    <br/>
+    <span class="i1">In any rough place where it caught.</span>
+  </p>
+  <p>
+    <span>Man came to tell it what was wrong:</span>
+    <br/>
+    <span class="i1">It hadn’t found the place to blow;</span>
+    <br/>
+    <span>It blew too hard⁠—the aim was song.</span>
+    <br/>
+    <span class="i1">And listen⁠—how it ought to go!</span>
+  </p>
+  <p>
+    <span>He took a little in his mouth,</span>
+    <br/>
+    <span class="i1">And held it long enough for north</span>
+    <br/>
+    <span>To be converted into south,</span>
+    <br/>
+    <span class="i1">And then by measure blew it forth.</span>
+  </p>
+  <p>
+    <span>By measure. It was word and note,</span>
+    <br/>
+    <span class="i1">The wind the wind had meant to be⁠—</span>
+    <br/>
+    <span>A little through the lips and throat.</span>
+    <br/>
+    <span class="i1">The aim was song⁠—the wind could see.</span>
+  </p>
+</article>

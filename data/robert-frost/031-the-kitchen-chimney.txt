@@ -1,0 +1,50 @@
+The Kitchen Chimney
+---
+<article id="the-kitchen-chimney" epub:type="z3998:poem">
+  <h3 epub:type="title">The Kitchen Chimney</h3>
+  <p>
+    <span>Builder, in building the little house,</span>
+    <br/>
+    <span>In every way you may please yourself;</span>
+    <br/>
+    <span>But please please me in the kitchen chimney:</span>
+    <br/>
+    <span>Don’t build me a chimney upon a shelf.</span>
+  </p>
+  <p>
+    <span>However far you must go for bricks,</span>
+    <br/>
+    <span>Whatever they cost a-piece or a pound,</span>
+    <br/>
+    <span>Buy me enough for a full-length chimney,</span>
+    <br/>
+    <span>And build the chimney clear from the ground.</span>
+  </p>
+  <p>
+    <span>It’s not that I’m greatly afraid of fire,</span>
+    <br/>
+    <span>But I never heard of a house that throve</span>
+    <br/>
+    <span>(And I know of one that didn’t thrive)</span>
+    <br/>
+    <span>Where the chimney started above the stove.</span>
+  </p>
+  <p>
+    <span>And I dread the ominous stain of tar</span>
+    <br/>
+    <span>That there always is on the papered walls,</span>
+    <br/>
+    <span>And the smell of fire drowned in rain</span>
+    <br/>
+    <span>That there always is when the chimney’s false.</span>
+  </p>
+  <p>
+    <span>A shelf’s for a clock or vase or picture,</span>
+    <br/>
+    <span>But I don’t see why it should have to bear</span>
+    <br/>
+    <span>A chimney that only would serve to remind me</span>
+    <br/>
+    <span>Of castles I used to build in air.</span>
+  </p>
+</article>

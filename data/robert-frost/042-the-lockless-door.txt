@@ -1,0 +1,50 @@
+The Lockless Door
+---
+<article id="the-lockless-door" epub:type="z3998:poem">
+  <h3 epub:type="title">The Lockless Door</h3>
+  <p>
+    <span>It went many years,</span>
+    <br/>
+    <span>But at last came a knock,</span>
+    <br/>
+    <span>And I thought of the door</span>
+    <br/>
+    <span>With no lock to lock.</span>
+  </p>
+  <p>
+    <span>I blew out the light,</span>
+    <br/>
+    <span>I tip-toed the floor,</span>
+    <br/>
+    <span>And raised both hands</span>
+    <br/>
+    <span>In prayer to the door.</span>
+  </p>
+  <p>
+    <span>But the knock came again.</span>
+    <br/>
+    <span>My window was wide;</span>
+    <br/>
+    <span>I climbed on the sill</span>
+    <br/>
+    <span>And descended outside.</span>
+  </p>
+  <p>
+    <span>Back over the sill</span>
+    <br/>
+    <span>I bade a “Come in”</span>
+    <br/>
+    <span>To whatever the knock</span>
+    <br/>
+    <span>At the door may have been.</span>
+  </p>
+  <p>
+    <span>So at a knock</span>
+    <br/>
+    <span>I emptied my cage</span>
+    <br/>
+    <span>To hide in the world</span>
+    <br/>
+    <span>And alter with age.</span>
+  </p>
+</article>

@@ -1,0 +1,331 @@
+A Fountain, a Bottle, a Donkey’s Ears and Some Books
+---
+<article id="a-fountain-a-bottle-a-donkeys-ears-and-some-books" epub:type="z3998:poem">
+  <h3 epub:type="title">A Fountain, a Bottle, a Donkey’s Ears and Some Books</h3>
+  <p>
+    <span>Old Davis owned a solid mica mountain</span>
+    <br/>
+    <span>In Dalton that would some day make his fortune.</span>
+    <br/>
+    <span>There’d been some Boston people out to see it:</span>
+    <br/>
+    <span>And experts said that deep down in the mountain</span>
+    <br/>
+    <span>The mica sheets were big as plate glass windows.</span>
+    <br/>
+    <span>He’d like to take me there and show it to me.</span>
+  </p>
+  <p>
+    <span>“I’ll tell you what you show me. You remember</span>
+    <br/>
+    <span>You said you knew the place where once, on Kinsman,</span>
+    <br/>
+    <span>The early Mormons made a settlement</span>
+    <br/>
+    <span>And built a stone baptismal font outdoors⁠—</span>
+    <br/>
+    <span>But Smith, or some one, called them off the mountain</span>
+    <br/>
+    <span>To go West to a worse fight with the desert.</span>
+    <br/>
+    <span>You said you’d seen the stone baptismal font.</span>
+    <br/>
+    <span>Well, take me there.”</span>
+  </p>
+  <p>
+    <span class="i8">“Some day I will.”</span>
+  </p>
+  <p>
+    <span class="i15">“Today.”</span>
+  </p>
+  <p>
+    <span>“Huh, that old bath-tub, what is that to see?</span>
+    <br/>
+    <span>Let’s talk about it.”</span>
+  </p>
+  <p>
+    <span class="i8">“Let’s go see the place.”</span>
+  </p>
+  <p>
+    <span>“To shut you up I’ll tell you what I’ll do:</span>
+    <br/>
+    <span>I’ll find that fountain if it takes all summer,</span>
+    <br/>
+    <span>And both of our united strengths, to do it.”</span>
+  </p>
+  <p>
+    <span>“You’ve lost it, then?”</span>
+  </p>
+  <p>
+    <span class="i9">“Not so but I can find it.</span>
+    <br/>
+    <span>No doubt it’s grown up some to woods around it.</span>
+    <br/>
+    <span>The mountain may have shifted since I saw it</span>
+    <br/>
+    <span>In eighty-five.”</span>
+  </p>
+  <p>
+    <span class="i6">“As long ago as that?”</span>
+  </p>
+  <p>
+    <span>“If I remember rightly, it had sprung</span>
+    <br/>
+    <span>A leak and emptied then. And forty years</span>
+    <br/>
+    <span>Can do a good deal to bad masonry.</span>
+    <br/>
+    <span>You won’t see any Mormon swimming in it.</span>
+    <br/>
+    <span>But you have said it, and we’re off to find it.</span>
+    <br/>
+    <span>Old as I am, I’m going to let myself</span>
+    <br/>
+    <span>Be dragged by you all over everywhere⁠—”</span>
+  </p>
+  <p>
+    <span>“I thought you were a guide.”</span>
+  </p>
+  <p>
+    <span class="i12">“I am a guide,</span>
+    <br/>
+    <span>And that’s why I can’t decently refuse you.”</span>
+  </p>
+  <p>
+    <span>We made a day of it out of the world,</span>
+    <br/>
+    <span>Ascending to descend to reascend.</span>
+    <br/>
+    <span>The old man seriously took his bearings,</span>
+    <br/>
+    <span>And spoke his doubts in every open place.</span>
+  </p>
+  <p>
+    <span>We came out on a look-off where we faced</span>
+    <br/>
+    <span>A cliff, and on the cliff a bottle painted,</span>
+    <br/>
+    <span>Or stained by vegetation from above,</span>
+    <br/>
+    <span>A likeness to surprise the thrilly tourist.</span>
+  </p>
+  <p>
+    <span>“Well, if I haven’t brought you to the fountain,</span>
+    <br/>
+    <span>At least I’ve brought you to the famous Bottle.”</span>
+  </p>
+  <p>
+    <span>“I won’t accept the substitute. It’s empty.”</span>
+  </p>
+  <p>
+    <span>“So’s everything.”</span>
+  </p>
+  <p>
+    <span class="i7">“I want my fountain.”</span>
+  </p>
+  <p>
+    <span>“I guess you’d find the fountain just as empty.</span>
+    <br/>
+    <span>And anyway this tells me where I am.”</span>
+  </p>
+  <p>
+    <span>“Hadn’t you long suspected where you were?”</span>
+  </p>
+  <p>
+    <span>“You mean miles from that Mormon settlement?</span>
+    <br/>
+    <span>Look here, you treat your guide with due respect</span>
+    <br/>
+    <span>If you don’t want to spend the night outdoors.</span>
+    <br/>
+    <span>I vow we must be near the place from where</span>
+    <br/>
+    <span>The two converging slides, the avalanches,</span>
+    <br/>
+    <span>On Marshall, look like donkey’s ears.</span>
+    <br/>
+    <span>We may as well see that and save the day.”</span>
+  </p>
+  <p>
+    <span>“Don’t donkey’s ears suggest we shake our own?”</span>
+  </p>
+  <p>
+    <span>“For God’s sake, aren’t you fond of viewing nature?</span>
+    <br/>
+    <span>You don’t like nature. All you like is books.</span>
+    <br/>
+    <span>What signify a donkey’s ears and bottle,</span>
+    <br/>
+    <span>However natural? Give you your books!</span>
+    <br/>
+    <span>Well then, right here is where I show you books.</span>
+    <br/>
+    <span>Come straight down off this mountain just as fast</span>
+    <br/>
+    <span>As we can fall and keep a-bouncing on our feet.</span>
+    <br/>
+    <span>It’s hell for knees unless done hell-for-leather.”</span>
+  </p>
+  <p>
+    <span>“Be ready,” I thought, “for almost anything.”</span>
+  </p>
+  <p>
+    <span>We struck a road I didn’t recognize,</span>
+    <br/>
+    <span>But welcomed for the chance to lave my shoes</span>
+    <br/>
+    <span>In dust once more. We followed this a mile,</span>
+    <br/>
+    <span>Perhaps, to where it ended at a house</span>
+    <br/>
+    <span>I didn’t know was there. It was the kind</span>
+    <br/>
+    <span>To bring me to for broad-board panelling.</span>
+    <br/>
+    <span>I never saw so good a house deserted.</span>
+  </p>
+  <p>
+    <span>“Excuse me if I ask you in a window</span>
+    <br/>
+    <span>That happens to be broken,” Davis said.</span>
+    <br/>
+    <span>“The outside doors as yet have held against us.</span>
+    <br/>
+    <span>I want to introduce you to the people</span>
+    <br/>
+    <span>Who used to live here. They were Robinsons.</span>
+    <br/>
+    <span>You must have heard of Clara Robinson,</span>
+    <br/>
+    <span>The poetess who wrote the book of verses</span>
+    <br/>
+    <span>And had it published. It was all about</span>
+    <br/>
+    <span>The posies on her inner window sill,</span>
+    <br/>
+    <span>And the birds on her outer window sill,</span>
+    <br/>
+    <span>And how she tended both, or had them tended:</span>
+    <br/>
+    <span>She never tended anything herself.</span>
+    <br/>
+    <span>She was ‘shut in’ for life. She lived her whole</span>
+    <br/>
+    <span>Life long in bed, and wrote her things in bed.</span>
+    <br/>
+    <span>I’ll show you how she had her sills extended</span>
+    <br/>
+    <span>To entertain the birds and hold the flowers.</span>
+    <br/>
+    <span>Our business first’s up attic with her books.”</span>
+  </p>
+  <p>
+    <span>We trod uncomfortably on crunching glass</span>
+    <br/>
+    <span>Through a house stripped of everything</span>
+    <br/>
+    <span>Except, it seemed, the poetess’s poems.</span>
+    <br/>
+    <span>Books, I should say!⁠—if books are what is needed.</span>
+    <br/>
+    <span>A whole edition in a packing-case,</span>
+    <br/>
+    <span>That, overflowing like a horn of plenty,</span>
+    <br/>
+    <span>Or like the poetess’s heart of love,</span>
+    <br/>
+    <span>Had spilled them near the window toward the light,</span>
+    <br/>
+    <span>Where driven rain had wet and swollen them.</span>
+    <br/>
+    <span>Enough to stock a village library⁠—</span>
+    <br/>
+    <span>Unfortunately all of one kind, though.</span>
+    <br/>
+    <span>They had been brought home from some publisher</span>
+    <br/>
+    <span>And taken thus into the family.</span>
+    <br/>
+    <span>Boys and bad hunters had known what to do</span>
+    <br/>
+    <span>With stone and lead to unprotected glass:</span>
+    <br/>
+    <span>Shatter it inward on the unswept floors.</span>
+    <br/>
+    <span>How had the tender verse escaped their outrage?</span>
+    <br/>
+    <span>By being invisible for what it was,</span>
+    <br/>
+    <span>Or else by some remoteness that defied them</span>
+    <br/>
+    <span>To find out what to do to hurt a poem.</span>
+    <br/>
+    <span>Yet oh! the tempting flatness of a book,</span>
+    <br/>
+    <span>To send it sailing out the attic window</span>
+    <br/>
+    <span>Till it caught the wind, and, opening out its covers,</span>
+    <br/>
+    <span>Tried to improve on sailing like a tile</span>
+    <br/>
+    <span>By flying like a bird (silent in flight,</span>
+    <br/>
+    <span>But all the burden of its body song),</span>
+    <br/>
+    <span>Only to tumble like a stricken bird,</span>
+    <br/>
+    <span>And lie in stones and bushes unretrieved.</span>
+    <br/>
+    <span>Books were not thrown irreverently about.</span>
+    <br/>
+    <span>They simply lay where some one now and then,</span>
+    <br/>
+    <span>Having tried one, had dropped it at his feet</span>
+    <br/>
+    <span>And left it lying where it fell rejected.</span>
+    <br/>
+    <span>Here were all those the poetess’s life</span>
+    <br/>
+    <span>Had been too short to sell or give away.</span>
+  </p>
+  <p>
+    <span>“Take one,” Old Davis bade me graciously.</span>
+  </p>
+  <p>
+    <span>“Why not take two or three?”</span>
+  </p>
+  <p>
+    <span class="i12">“Take all you want.</span>
+    <br/>
+    <span>Good-looking books like that.” He picked one fresh</span>
+    <br/>
+    <span>In virgin wrapper from deep in the box,</span>
+    <br/>
+    <span>And stroked it with a horny-handed kindness.</span>
+    <br/>
+    <span>He read in one and I read in another,</span>
+    <br/>
+    <span>Both either looking for or finding something.</span>
+  </p>
+  <p>
+    <span>The attic wasps went missing by like bullets.</span>
+  </p>
+  <p>
+    <span>I was soon satisfied for the time being.</span>
+  </p>
+  <p>
+    <span>All the way home I kept remembering</span>
+    <br/>
+    <span>The small book in my pocket. It was there.</span>
+    <br/>
+    <span>The poetess had sighed, I knew, in heaven</span>
+    <br/>
+    <span>At having eased her heart of one more copy⁠—</span>
+    <br/>
+    <span>Legitimately. My demand upon her,</span>
+    <br/>
+    <span>Though slight, was a demand. She felt the tug.</span>
+    <br/>
+    <span>In time she would be rid of all her books.</span>
+  </p>
+</article>

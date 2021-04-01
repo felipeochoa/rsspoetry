@@ -1,0 +1,23 @@
+Blue-Butterfly Day
+---
+<article id="blue-butterfly-days" epub:type="z3998:poem">
+  <h3 epub:type="title">Blue-Butterfly Day</h3>
+  <p>
+    <span>It is blue-butterfly day here in spring,</span>
+    <br/>
+    <span>And with these sky-flakes down in flurry on flurry</span>
+    <br/>
+    <span>There is more unmixed color on the wing</span>
+    <br/>
+    <span>Than flowers will show for days unless they hurry.</span>
+  </p>
+  <p>
+    <span>But these are flowers that fly and all but sing:</span>
+    <br/>
+    <span>And now from having ridden out desire</span>
+    <br/>
+    <span>They lie closed over in the wind and cling</span>
+    <br/>
+    <span>Where wheels have freshly sliced the April mire.</span>
+  </p>
+</article>

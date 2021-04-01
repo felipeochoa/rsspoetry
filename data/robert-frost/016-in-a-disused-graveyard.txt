@@ -1,0 +1,41 @@
+In a Disused Graveyard
+---
+<article id="in-a-disused-graveyard" epub:type="z3998:poem">
+  <h3 epub:type="title">In a Disused Graveyard</h3>
+  <p>
+    <span>The living come with grassy tread</span>
+    <br/>
+    <span>To read the gravestones on the hill;</span>
+    <br/>
+    <span>The graveyard draws the living still,</span>
+    <br/>
+    <span>But never any more the dead.</span>
+  </p>
+  <p>
+    <span>The verses in it say and say:</span>
+    <br/>
+    <span>“The ones who living come today</span>
+    <br/>
+    <span>To read the stones and go away</span>
+    <br/>
+    <span>Tomorrow dead will come to stay.”</span>
+  </p>
+  <p>
+    <span>So sure of death the marbles rhyme,</span>
+    <br/>
+    <span>Yet can’t help marking all the time</span>
+    <br/>
+    <span>How no one dead will seem to come.</span>
+    <br/>
+    <span>What is it men are shrinking from?</span>
+  </p>
+  <p>
+    <span>It would be easy to be clever</span>
+    <br/>
+    <span>And tell the stones: Men hate to die</span>
+    <br/>
+    <span>And have stopped dying now forever.</span>
+    <br/>
+    <span>I think they would believe the lie.</span>
+  </p>
+</article>

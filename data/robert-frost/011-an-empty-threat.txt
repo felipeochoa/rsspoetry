@@ -1,0 +1,128 @@
+An Empty Threat
+---
+<article id="an-empty-threat" epub:type="z3998:poem">
+  <h3 epub:type="title">An Empty Threat</h3>
+  <p>
+    <span>I stay;</span>
+    <br/>
+    <span>But it isn’t as if</span>
+    <br/>
+    <span>There wasn’t always Hudson’s Bay</span>
+    <br/>
+    <span>And the fur trade,</span>
+    <br/>
+    <span>A small skiff</span>
+    <br/>
+    <span>And a paddle blade.</span>
+  </p>
+  <p>
+    <span>I can just see my tent pegged,</span>
+    <br/>
+    <span>And me on the floor,</span>
+    <br/>
+    <span>Crosslegged,</span>
+    <br/>
+    <span>And a trapper looking in at the door</span>
+    <br/>
+    <span>With furs to sell.</span>
+  </p>
+  <p>
+    <span>His name’s Joe,</span>
+    <br/>
+    <span>Alias John,</span>
+    <br/>
+    <span>And between what he doesn’t know</span>
+    <br/>
+    <span>And won’t tell</span>
+    <br/>
+    <span>About where Henry Hudson’s gone,</span>
+    <br/>
+    <span>I can’t say he’s much help;</span>
+    <br/>
+    <span>But we get on.</span>
+  </p>
+  <p>
+    <span>The seal yelp</span>
+    <br/>
+    <span>On an ice cake.</span>
+    <br/>
+    <span>It’s not men by some mistake?</span>
+  </p>
+  <p>
+    <span>No,</span>
+    <br/>
+    <span>There’s not a soul</span>
+    <br/>
+    <span>For a wind-break</span>
+    <br/>
+    <span>Between me and the North Pole⁠—</span>
+  </p>
+  <p>
+    <span>Except always John-Joe,</span>
+    <br/>
+    <span>My French Indian Eskimo,</span>
+    <br/>
+    <span>And he’s off setting traps,</span>
+    <br/>
+    <span>In one himself perhaps.</span>
+  </p>
+  <p>
+    <span>Give a head shake</span>
+    <br/>
+    <span>Over so much bay</span>
+    <br/>
+    <span>Thrown away</span>
+    <br/>
+    <span>In snow and mist</span>
+    <br/>
+    <span>That doesn’t exist,</span>
+    <br/>
+    <span>I was going to say,</span>
+    <br/>
+    <span>For God, man or beast’s sake,</span>
+    <br/>
+    <span>Yet does perhaps for all three.</span>
+  </p>
+  <p>
+    <span>Don’t ask Joe</span>
+    <br/>
+    <span>What it is to him.</span>
+    <br/>
+    <span>It’s sometimes dim</span>
+    <br/>
+    <span>What it is to me,</span>
+    <br/>
+    <span>Unless it be</span>
+    <br/>
+    <span>It’s the old captain’s dark fate</span>
+    <br/>
+    <span>Who failed to find or force a strait</span>
+    <br/>
+    <span>In its two-thousand-mile coast;</span>
+    <br/>
+    <span>And his crew left him where he failed,</span>
+    <br/>
+    <span>And nothing came of all he sailed.</span>
+  </p>
+  <p>
+    <span>It’s to say, “You and I”</span>
+    <br/>
+    <span>To such a ghost,</span>
+    <br/>
+    <span>“You and I</span>
+    <br/>
+    <span>Off here</span>
+    <br/>
+    <span>With the dead race of the Great Auk!”</span>
+    <br/>
+    <span>And, “Better defeat almost,</span>
+    <br/>
+    <span>If seen clear,</span>
+    <br/>
+    <span>Than life’s victories of doubt</span>
+    <br/>
+    <span>That need endless talk talk</span>
+    <br/>
+    <span>To make them out.”</span>
+  </p>
+</article>

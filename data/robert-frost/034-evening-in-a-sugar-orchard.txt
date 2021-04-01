@@ -1,0 +1,40 @@
+Evening in a Sugar Orchard
+---
+<article id="evening-in-a-sugar-orchard" epub:type="z3998:poem">
+  <h3 epub:type="title">Evening in a Sugar Orchard</h3>
+  <p>
+    <span>From where I lingered in a lull in March</span>
+    <br/>
+    <span>Outside the sugar-house one night for choice,</span>
+    <br/>
+    <span>I called the fireman with a careful voice</span>
+    <br/>
+    <span>And bade him leave the pan and stoke the arch:</span>
+    <br/>
+    <span>“O fireman, give the fire another stoke,</span>
+    <br/>
+    <span>And send more sparks up chimney with the smoke.”</span>
+    <br/>
+    <span>I thought a few might tangle, as they did,</span>
+    <br/>
+    <span>Among bare maple boughs, and in the rare</span>
+    <br/>
+    <span>Hill atmosphere not cease to glow,</span>
+    <br/>
+    <span>And so be added to the moon up there.</span>
+    <br/>
+    <span>The moon, though slight, was moon enough to show</span>
+    <br/>
+    <span>On every tree a bucket with a lid,</span>
+    <br/>
+    <span>And on black ground a bear-skin rug of snow.</span>
+    <br/>
+    <span>The sparks made no attempt to be the moon.</span>
+    <br/>
+    <span>They were content to figure in the trees</span>
+    <br/>
+    <span>As Leo, Orion, and the Pleiades.</span>
+    <br/>
+    <span>And that was what the boughs were full of soon.</span>
+  </p>
+</article>

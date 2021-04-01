@@ -1,0 +1,77 @@
+A Hillside Thaw
+---
+<article id="a-hillside-thaw" epub:type="z3998:poem">
+  <h3 epub:type="title">A Hillside Thaw</h3>
+  <p>
+    <span>To think to know the country and not know</span>
+    <br/>
+    <span>The hillside on the day the sun lets go</span>
+    <br/>
+    <span>Ten million silver lizards out of snow!</span>
+    <br/>
+    <span>As often as I’ve seen it done before</span>
+    <br/>
+    <span>I can’t pretend to tell the way it’s done.</span>
+    <br/>
+    <span>It looks as if some magic of the sun</span>
+    <br/>
+    <span>Lifted the rug that bred them on the floor</span>
+    <br/>
+    <span>And the light breaking on them made them run.</span>
+    <br/>
+    <span>But if I thought to stop the wet stampede,</span>
+    <br/>
+    <span>And caught one silver lizard by the tail,</span>
+    <br/>
+    <span>And put my foot on one without avail,</span>
+    <br/>
+    <span>And threw myself wet-elbowed and wet-kneed</span>
+    <br/>
+    <span>In front of twenty others’ wriggling speed⁠—</span>
+    <br/>
+    <span>In the confusion of them all aglitter,</span>
+    <br/>
+    <span>And birds that joined in the excited fun</span>
+    <br/>
+    <span>By doubling and redoubling song and twitter,</span>
+    <br/>
+    <span>I have no doubt I’d end by holding none.</span>
+  </p>
+  <p>
+    <span>It takes the moon for this. The sun’s a wizard</span>
+    <br/>
+    <span>By all I tell; but so’s the moon a witch.</span>
+    <br/>
+    <span>From the high west she makes a gentle cast</span>
+    <br/>
+    <span>And suddenly, without a jerk or twitch,</span>
+    <br/>
+    <span>She has her spell on every single lizard.</span>
+    <br/>
+    <span>I fancied when I looked at six o’clock</span>
+    <br/>
+    <span>The swarm still ran and scuttled just as fast.</span>
+    <br/>
+    <span>The moon was waiting for her chill effect.</span>
+    <br/>
+    <span>I looked at nine: the swarm was turned to rock</span>
+    <br/>
+    <span>In every lifelike posture of the swarm,</span>
+    <br/>
+    <span>Transfixed on mountain slopes almost erect.</span>
+    <br/>
+    <span>Across each other and side by side they lay.</span>
+    <br/>
+    <span>The spell that so could hold them as they were</span>
+    <br/>
+    <span>Was wrought through trees without a breath of storm</span>
+    <br/>
+    <span>To make a leaf, if there had been one, stir.</span>
+    <br/>
+    <span>It was the moon’s: she held them until day,</span>
+    <br/>
+    <span>One lizard at the end of every ray.</span>
+    <br/>
+    <span>The thought of my attempting such a stay!</span>
+  </p>
+</article>

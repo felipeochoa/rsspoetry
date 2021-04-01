@@ -1,0 +1,141 @@
+A Star in a Stone-Boat
+---
+<article id="a-star-in-a-stone-boat" epub:type="z3998:poem">
+  <header>
+    <h3 epub:type="title">A Star in a Stone-Boat</h3>
+    <p epub:type="dedication">(For Lincoln MacVeagh)</p>
+  </header>
+  <p>
+    <span>Never tell me that not one star of all</span>
+    <br/>
+    <span>That slip from heaven at night and softly fall</span>
+    <br/>
+    <span>Has been picked up with stones to build a wall.</span>
+  </p>
+  <p>
+    <span>Some laborer found one faded and stone cold,</span>
+    <br/>
+    <span id="a-star-in-a-stone-boat-line-5">And saving that its weight suggested gold,</span>
+    <br/>
+    <span>And tugged it from his first too certain hold,</span>
+  </p>
+  <p>
+    <span>He noticed nothing in it to remark.</span>
+    <br/>
+    <span>He was not used to handling stars thrown dark</span>
+    <br/>
+    <span>And lifeless from an interrupted arc.</span>
+  </p>
+  <p>
+    <span>He did not recognize in that smooth coal</span>
+    <br/>
+    <span>The one thing palpable besides the soul</span>
+    <br/>
+    <span>To penetrate the air in which we roll.</span>
+  </p>
+  <p>
+    <span>He did not see how like a flying thing</span>
+    <br/>
+    <span>It brooded ant-eggs, and had one large wing,</span>
+    <br/>
+    <span>One not so large for flying in a ring,</span>
+  </p>
+  <p>
+    <span>And a long Bird of Paradise’s tail,</span>
+    <br/>
+    <span>(Though these when not in use to fly and trail</span>
+    <br/>
+    <span>It drew back in its body like a snail);</span>
+  </p>
+  <p>
+    <span>Nor know that he might move it from the spot</span>
+    <br/>
+    <span>The harm was done; from having been star-shot</span>
+    <br/>
+    <span id="a-star-in-a-stone-boat-line-21">The very nature of the soil was hot</span>
+  </p>
+  <p>
+    <span>And burning to yield flowers instead of grain,</span>
+    <br/>
+    <span>Flowers fanned and not put out by all the rain</span>
+    <br/>
+    <span>Poured on them by his prayers prayed in vain.</span>
+  </p>
+  <p>
+    <span>He moved it roughly with an iron bar,</span>
+    <br/>
+    <span>He loaded an old stone-boat with the star</span>
+    <br/>
+    <span>And not, as you might think, a flying car,</span>
+  </p>
+  <p>
+    <span>Such as even poets would admit perforce</span>
+    <br/>
+    <span>More practical than Pegasus the horse</span>
+    <br/>
+    <span>If it could put a star back in its course.</span>
+  </p>
+  <p>
+    <span>He dragged it through the ploughed ground at a pace</span>
+    <br/>
+    <span>But faintly reminiscent of the race</span>
+    <br/>
+    <span>Of jostling rock in interstellar space.</span>
+  </p>
+  <p>
+    <span>It went for building stone, and I, as though</span>
+    <br/>
+    <span>Commanded in a dream, forever go</span>
+    <br/>
+    <span>To right the wrong that this should have been so.</span>
+  </p>
+  <p>
+    <span>Yet ask where else it could have gone as well,</span>
+    <br/>
+    <span>I do not know⁠—I cannot stop to tell:</span>
+    <br/>
+    <span>He might have left it lying where it fell.</span>
+  </p>
+  <p>
+    <span>From following walls I never lift my eye</span>
+    <br/>
+    <span>Except at night to places in the sky</span>
+    <br/>
+    <span>Where showers of charted meteors let fly.</span>
+  </p>
+  <p>
+    <span>Some may know what they seek in school and church,</span>
+    <br/>
+    <span>And why they seek it there; for what I search</span>
+    <br/>
+    <span>I must go measuring stone walls, perch on perch;</span>
+  </p>
+  <p>
+    <span>Sure that though not a star of death and birth,</span>
+    <br/>
+    <span>So not to be compared, perhaps, in worth</span>
+    <br/>
+    <span>To such resorts of life as Mars and Earth,</span>
+  </p>
+  <p>
+    <span>Though not, I say, a star of death and sin,</span>
+    <br/>
+    <span>It yet has poles, and only needs a spin</span>
+    <br/>
+    <span>To show its worldly nature and begin</span>
+  </p>
+  <p>
+    <span>To chafe and shuffle in my calloused palm</span>
+    <br/>
+    <span>And run off in strange tangents with my arm</span>
+    <br/>
+    <span>As fish do with the line in first alarm.</span>
+  </p>
+  <p>
+    <span>Such as it is, it promises the prize</span>
+    <br/>
+    <span>Of the one world complete in any size</span>
+    <br/>
+    <span>That I am like to compass, fool or wise.</span>
+  </p>
+</article>

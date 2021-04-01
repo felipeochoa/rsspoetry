@@ -1,0 +1,50 @@
+Looking for a Sunset Bird in Winter
+---
+<article id="looking-for-a-sunset-bird-in-winter" epub:type="z3998:poem">
+  <h3 epub:type="title">Looking for a Sunset Bird in Winter</h3>
+  <p>
+    <span>The west was getting out of gold,</span>
+    <br/>
+    <span>The breath of air had died of cold,</span>
+    <br/>
+    <span>When shoeing home across the white,</span>
+    <br/>
+    <span>I thought I saw a bird alight.</span>
+  </p>
+  <p>
+    <span>In summer when I passed the place</span>
+    <br/>
+    <span>I had to stop and lift my face;</span>
+    <br/>
+    <span>A bird with an angelic gift</span>
+    <br/>
+    <span>Was singing in it sweet and swift.</span>
+  </p>
+  <p>
+    <span>No bird was singing in it now.</span>
+    <br/>
+    <span>A single leaf was on a bough,</span>
+    <br/>
+    <span>And that was all there was to see</span>
+    <br/>
+    <span>In going twice around the tree.</span>
+  </p>
+  <p>
+    <span>From my advantage on a hill</span>
+    <br/>
+    <span>I judged that such a crystal chill</span>
+    <br/>
+    <span>Was only adding frost to snow</span>
+    <br/>
+    <span>As gilt to gold that wouldn’t show.</span>
+  </p>
+  <p>
+    <span>A brush had left a crooked stroke</span>
+    <br/>
+    <span>Of what was either cloud or smoke</span>
+    <br/>
+    <span>From north to south across the blue;</span>
+    <br/>
+    <span>A piercing little star was through.</span>
+  </p>
+</article>

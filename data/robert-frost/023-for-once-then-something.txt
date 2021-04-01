@@ -1,0 +1,36 @@
+For Once, Then, Something
+---
+<article id="for-once-then-something" epub:type="z3998:poem">
+  <h3 epub:type="title">For Once, Then, Something</h3>
+  <p>
+    <span>Others taunt me with having knelt at well-curbs</span>
+    <br/>
+    <span>Always wrong to the light, so never seeing</span>
+    <br/>
+    <span>Deeper down in the well than where the water</span>
+    <br/>
+    <span>Gives me back in a shining surface picture</span>
+    <br/>
+    <span>Me myself in the summer heaven godlike</span>
+    <br/>
+    <span>Looking out of a wreath of fern and cloud puffs.</span>
+    <br/>
+    <span><em>Once</em>, when trying with chin against a well-curb,</span>
+    <br/>
+    <span>I discerned, as I thought, beyond the picture,</span>
+    <br/>
+    <span>Through the picture, a something white, uncertain,</span>
+    <br/>
+    <span>Something more of the depths⁠—and then I lost it.</span>
+    <br/>
+    <span>Water came to rebuke the too clear water.</span>
+    <br/>
+    <span>One drop fell from a fern, and lo, a ripple</span>
+    <br/>
+    <span>Shook whatever it was lay there at bottom,</span>
+    <br/>
+    <span>Blurred it, blotted it out. What was that whiteness?</span>
+    <br/>
+    <span>Truth? A pebble of quartz? For once, then, something.</span>
+  </p>
+</article>

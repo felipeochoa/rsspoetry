@@ -1,0 +1,167 @@
+I Will Sing You One-O
+---
+<article id="i-will-sing-you-one-o" epub:type="z3998:poem">
+  <h3 epub:type="title">I Will Sing You One-O</h3>
+  <p>
+    <span>It was long I lay</span>
+    <br/>
+    <span>Awake that night</span>
+    <br/>
+    <span>Wishing the tower</span>
+    <br/>
+    <span>Would name the hour</span>
+    <br/>
+    <span>And tell me whether</span>
+    <br/>
+    <span>To call it day</span>
+    <br/>
+    <span>(Though not yet light)</span>
+    <br/>
+    <span>And give up sleep.</span>
+    <br/>
+    <span>The snow fell deep</span>
+    <br/>
+    <span>With the hiss of spray;</span>
+    <br/>
+    <span>Two winds would meet,</span>
+    <br/>
+    <span>One down one street,</span>
+    <br/>
+    <span>One down another,</span>
+    <br/>
+    <span>And fight in a smother</span>
+    <br/>
+    <span>Of dust and feather.</span>
+    <br/>
+    <span>I could not say,</span>
+    <br/>
+    <span>But feared the cold</span>
+    <br/>
+    <span>Had checked the pace</span>
+    <br/>
+    <span>Of the tower clock</span>
+    <br/>
+    <span>By tying together</span>
+    <br/>
+    <span>Its hands of gold</span>
+    <br/>
+    <span>Before its face.</span>
+  </p>
+  <p>
+    <span>Then came one knock!</span>
+    <br/>
+    <span>A note unruffled</span>
+    <br/>
+    <span>Of earthly weather,</span>
+    <br/>
+    <span>Though strange and muffled.</span>
+    <br/>
+    <span>The tower said, “One!”</span>
+    <br/>
+    <span>And then a steeple.</span>
+    <br/>
+    <span>They spoke to themselves</span>
+    <br/>
+    <span>And such few people</span>
+    <br/>
+    <span>As winds might rouse</span>
+    <br/>
+    <span>From sleeping warm</span>
+    <br/>
+    <span>(But not unhouse).</span>
+    <br/>
+    <span>They left the storm</span>
+    <br/>
+    <span>That struck en masse</span>
+    <br/>
+    <span>My window glass</span>
+    <br/>
+    <span>Like a beaded fur.</span>
+    <br/>
+    <span>In that grave One</span>
+    <br/>
+    <span>They spoke of the sun</span>
+    <br/>
+    <span>And moon and stars,</span>
+    <br/>
+    <span>Saturn and Mars</span>
+    <br/>
+    <span>And Jupiter.</span>
+    <br/>
+    <span>Still more unfettered,</span>
+    <br/>
+    <span>They left the named</span>
+    <br/>
+    <span>And spoke of the lettered,</span>
+    <br/>
+    <span>The sigmas and taus</span>
+    <br/>
+    <span>Of constellations.</span>
+    <br/>
+    <span>They filled their throats</span>
+    <br/>
+    <span>With the furthest bodies</span>
+    <br/>
+    <span>To which man sends his</span>
+    <br/>
+    <span>Speculation,</span>
+    <br/>
+    <span>Beyond which God is;</span>
+    <br/>
+    <span>The cosmic motes</span>
+    <br/>
+    <span>Of yawning lenses.</span>
+    <br/>
+    <span>Their solemn peals</span>
+    <br/>
+    <span>Were not their own:</span>
+    <br/>
+    <span>They spoke for the clock</span>
+    <br/>
+    <span>With whose vast wheels</span>
+    <br/>
+    <span>Theirs interlock.</span>
+  </p>
+  <p>
+    <span>In that grave word</span>
+    <br/>
+    <span>Uttered alone</span>
+    <br/>
+    <span>The utmost star</span>
+    <br/>
+    <span>Trembled and stirred,</span>
+    <br/>
+    <span>Though set so far</span>
+    <br/>
+    <span>Its whirling frenzies</span>
+    <br/>
+    <span>Appear like standing</span>
+    <br/>
+    <span>In one self station.</span>
+    <br/>
+    <span>It has not ranged,</span>
+    <br/>
+    <span>And save for the wonder</span>
+    <br/>
+    <span>Of once expanding</span>
+    <br/>
+    <span>To be a nova,</span>
+    <br/>
+    <span>It has not changed</span>
+    <br/>
+    <span>To the eye of man</span>
+    <br/>
+    <span>On planets over</span>
+    <br/>
+    <span>Around and under</span>
+    <br/>
+    <span>It in creation</span>
+    <br/>
+    <span>Since man began</span>
+    <br/>
+    <span>To drag down man</span>
+    <br/>
+    <span>And nation nation.</span>
+  </p>
+</article>
+

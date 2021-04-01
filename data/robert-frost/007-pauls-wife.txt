@@ -1,0 +1,323 @@
+Paul’s Wife
+---
+<article id="pauls-wife" epub:type="z3998:poem">
+  <h3 epub:type="title">Paul’s Wife</h3>
+  <p>
+    <span>To drive Paul out of any lumber camp</span>
+    <br/>
+    <span>All that was needed was to say to him,</span>
+    <br/>
+    <span>“How is the wife, Paul?”⁠—and he’d disappear.</span>
+    <br/>
+    <span>Some said it was because he had no wife,</span>
+    <br/>
+    <span>And hated to be twitted on the subject.</span>
+    <br/>
+    <span>Others because he’d come within a day</span>
+    <br/>
+    <span>Or so of having one, and then been jilted.</span>
+    <br/>
+    <span>Others because he’d had one once, a good one,</span>
+    <br/>
+    <span>Who’d run away with some one else and left him.</span>
+    <br/>
+    <span>And others still because he had one now</span>
+    <br/>
+    <span>He only had to be reminded of⁠—</span>
+    <br/>
+    <span>He was all duty to her in a minute:</span>
+    <br/>
+    <span>He had to run right off to look her up,</span>
+    <br/>
+    <span>As if to say, “That’s so, how is my wife?</span>
+    <br/>
+    <span>I hope she isn’t getting into mischief.”</span>
+    <br/>
+    <span>No one was anxious to get rid of Paul.</span>
+    <br/>
+    <span>He’d been the hero of the mountain camps</span>
+    <br/>
+    <span>Ever since, just to show them, he had slipped</span>
+    <br/>
+    <span>The bark of a whole tamarack off whole,</span>
+    <br/>
+    <span>As clean as boys do off a willow twig</span>
+    <br/>
+    <span>To make a willow whistle on a Sunday</span>
+    <br/>
+    <span>In April by subsiding meadow brooks.</span>
+    <br/>
+    <span>They seemed to ask him just to see him go,</span>
+    <br/>
+    <span>“How is the wife, Paul?” and he always went.</span>
+    <br/>
+    <span>He never stopped to murder anyone</span>
+    <br/>
+    <span>Who asked the question. He just disappeared⁠—</span>
+    <br/>
+    <span>Nobody knew in what direction,</span>
+    <br/>
+    <span>Although it wasn’t usually long</span>
+    <br/>
+    <span>Before they heard of him in some new camp,</span>
+    <br/>
+    <span>The same Paul at the same old feats of logging.</span>
+    <br/>
+    <span>The question everywhere was why should Paul</span>
+    <br/>
+    <span>Object to being asked a civil question⁠—</span>
+    <br/>
+    <span>A man you could say almost anything to</span>
+    <br/>
+    <span>Short of a fighting word. You have the answers.</span>
+    <br/>
+    <span>And there was one more not so fair to Paul:</span>
+    <br/>
+    <span>That Paul had married a wife not his equal.</span>
+    <br/>
+    <span>Paul was ashamed of her. To match a hero,</span>
+    <br/>
+    <span>She would have had to be a heroine;</span>
+    <br/>
+    <span>Instead of which she was some half-breed squaw.</span>
+    <br/>
+    <span>But if the story Murphy told was true,</span>
+    <br/>
+    <span>She wasn’t anything to be ashamed of.</span>
+  </p>
+  <p>
+    <span>You know Paul could do wonders. Everyone’s</span>
+    <br/>
+    <span>Heard how he thrashed the horses on a load</span>
+    <br/>
+    <span>That wouldn’t budge until they simply stretched</span>
+    <br/>
+    <span>Their rawhide harness from the load to camp.</span>
+    <br/>
+    <span>Paul told the boss the load would be all right,</span>
+    <br/>
+    <span>“The sun will bring your load in”⁠—and it did⁠—</span>
+    <br/>
+    <span>By shrinking the rawhide to natural length.</span>
+    <br/>
+    <span>That’s what is called a stretcher. But I guess</span>
+    <br/>
+    <span>The one about his jumping so’s to land</span>
+    <br/>
+    <span>With both his feet at once against the ceiling,</span>
+    <br/>
+    <span>And then land safely right side up again,</span>
+    <br/>
+    <span>Back on the floor, is fact or pretty near fact.</span>
+    <br/>
+    <span>Well this is such a yarn. Paul sawed his wife</span>
+    <br/>
+    <span>Out of a white-pine log. Murphy was there,</span>
+    <br/>
+    <span>And, as you might say, saw the lady born.</span>
+    <br/>
+    <span>Paul worked at anything in lumbering.</span>
+    <br/>
+    <span>He’d been hard at it taking boards away</span>
+    <br/>
+    <span>For⁠—I forget⁠—the last ambitious sawyer</span>
+    <br/>
+    <span>To want to find out if he couldn’t pile</span>
+    <br/>
+    <span>The lumber on Paul till Paul begged for mercy.</span>
+    <br/>
+    <span>They’d sliced the first slab off a big butt log,</span>
+    <br/>
+    <span>And the sawyer had slammed the carriage back</span>
+    <br/>
+    <span>To slam end on again against the saw teeth.</span>
+    <br/>
+    <span>To judge them by the way they caught themselves</span>
+    <br/>
+    <span>When they saw what had happened to the log,</span>
+    <br/>
+    <span>They must have had a guilty expectation</span>
+    <br/>
+    <span>Something was going to go with their slambanging.</span>
+    <br/>
+    <span>Something had left a broad black streak of grease</span>
+    <br/>
+    <span>On the new wood the whole length of the log</span>
+    <br/>
+    <span>Except, perhaps, a foot at either end.</span>
+    <br/>
+    <span>But when Paul put his finger in the grease,</span>
+    <br/>
+    <span>It wasn’t grease at all, but a long slot.</span>
+    <br/>
+    <span>The log was hollow. They were sawing pine.</span>
+    <br/>
+    <span>“First time I ever saw a hollow pine.</span>
+    <br/>
+    <span>That comes of having Paul around the place.</span>
+    <br/>
+    <span>Take it to hell for me,” the sawyer said.</span>
+    <br/>
+    <span>Everyone had to have a look at it,</span>
+    <br/>
+    <span>And tell Paul what he ought to do about it.</span>
+    <br/>
+    <span>(They treated it as his.) “You take a jack-knife,</span>
+    <br/>
+    <span>And spread the opening, and you’ve got a dug-out</span>
+    <br/>
+    <span>All dug to go a-fishing in.” To Paul</span>
+    <br/>
+    <span>The hollow looked too sound and clean and empty</span>
+    <br/>
+    <span>Ever to have housed birds or beasts or bees.</span>
+    <br/>
+    <span>There was no entrance for them to get in by.</span>
+    <br/>
+    <span>It looked to him like some new kind of hollow</span>
+    <br/>
+    <span>He thought he’d <em>better</em> take his jack-knife to.</span>
+    <br/>
+    <span>So after work that evening he came back</span>
+    <br/>
+    <span>And let enough light into it by cutting</span>
+    <br/>
+    <span>To see if it was empty. He made out in there</span>
+    <br/>
+    <span>A slender length of pith, or was it pith?</span>
+    <br/>
+    <span>It might have been the skin a snake had cast</span>
+    <br/>
+    <span>And left stood up on end inside the tree</span>
+    <br/>
+    <span>The hundred years the tree must have been growing.</span>
+    <br/>
+    <span>More cutting and he had this in both hands,</span>
+    <br/>
+    <span>And, looking from it to the pond near by,</span>
+    <br/>
+    <span>Paul wondered how it would respond to water.</span>
+    <br/>
+    <span>Not a breeze stirred, but just the breath of air</span>
+    <br/>
+    <span>He made in walking slowly to the beach</span>
+    <br/>
+    <span>Blew it once off his hands and almost broke it.</span>
+    <br/>
+    <span>He laid it at the edge where it could drink.</span>
+    <br/>
+    <span>At the first drink it rustled and grew limp.</span>
+    <br/>
+    <span>At the next drink it grew invisible.</span>
+    <br/>
+    <span>Paul dragged the shallows for it with his fingers,</span>
+    <br/>
+    <span>And thought it must have melted. It was gone.</span>
+    <br/>
+    <span>And then beyond the open water, dim with midges,</span>
+    <br/>
+    <span>Where the log drive lay pressed against the boom,</span>
+    <br/>
+    <span>It slowly rose a person, rose a girl,</span>
+    <br/>
+    <span>Her wet hair heavy on her like a helmet,</span>
+    <br/>
+    <span>Who, leaning on a log looked back at Paul.</span>
+    <br/>
+    <span>And that made Paul in turn look back</span>
+    <br/>
+    <span>To see if it was anyone behind him</span>
+    <br/>
+    <span>That she was looking at instead of him.</span>
+    <br/>
+    <span>Murphy had been there watching all the time,</span>
+    <br/>
+    <span>But from a shed where neither of them could see him.</span>
+    <br/>
+    <span>There was a moment of suspense in birth</span>
+    <br/>
+    <span>When the girl seemed too water-logged to live,</span>
+    <br/>
+    <span>Before she caught her first breath with a gasp</span>
+    <br/>
+    <span>And laughed. Then she climbed slowly to her feet,</span>
+    <br/>
+    <span>And walked off talking to herself or Paul</span>
+    <br/>
+    <span>Across the logs like backs of alligators,</span>
+    <br/>
+    <span>Paul taking after her around the pond.</span>
+  </p>
+  <p>
+    <span>Next evening Murphy and some other fellows</span>
+    <br/>
+    <span>Got drunk, and tracked the pair up Catamount,</span>
+    <br/>
+    <span>From the bare top of which there is a view</span>
+    <br/>
+    <span>To other hills across a kettle valley.</span>
+    <br/>
+    <span>And there, well after dark, let Murphy tell it,</span>
+    <br/>
+    <span>They saw Paul and his creature keeping house.</span>
+    <br/>
+    <span>It was the only glimpse that anyone</span>
+    <br/>
+    <span>Has had of Paul and her since Murphy saw them</span>
+    <br/>
+    <span>Falling in love across the twilight mill-pond.</span>
+    <br/>
+    <span>More than a mile across the wilderness</span>
+    <br/>
+    <span>They sat together half-way up a cliff</span>
+    <br/>
+    <span>In a small niche let into it, the girl</span>
+    <br/>
+    <span>Brightly, as if a star played on the place,</span>
+    <br/>
+    <span>Paul darkly, like her shadow. All the light</span>
+    <br/>
+    <span>Was from the girl herself, though, not from a star,</span>
+    <br/>
+    <span>As was apparent from what happened next.</span>
+    <br/>
+    <span>All those great ruffians put their throats together,</span>
+    <br/>
+    <span>And let out a loud yell, and threw a bottle,</span>
+    <br/>
+    <span>As a brute tribute of respect to beauty.</span>
+    <br/>
+    <span>Of course the bottle fell short by a mile,</span>
+    <br/>
+    <span>But the shout reached the girl and put her light out.</span>
+    <br/>
+    <span>She went out like a firefly, and that was all.</span>
+  </p>
+  <p>
+    <span>So there were witnesses that Paul was married,</span>
+    <br/>
+    <span>And not to anyone to be ashamed of.</span>
+    <br/>
+    <span>Everyone had been wrong in judging Paul.</span>
+    <br/>
+    <span>Murphy told me Paul put on all those airs</span>
+    <br/>
+    <span>About his wife to keep her to himself.</span>
+    <br/>
+    <span>Paul was what’s called a terrible possessor.</span>
+    <br/>
+    <span>Owning a wife with him meant owning her.</span>
+    <br/>
+    <span>She wasn’t anybody else’s business,</span>
+    <br/>
+    <span>Either to praise her, or so much as name her,</span>
+    <br/>
+    <span>And he’d thank people not to think of her.</span>
+    <br/>
+    <span>Murphy’s idea was that a man like Paul</span>
+    <br/>
+    <span>Wouldn’t be spoken to about a wife</span>
+    <br/>
+    <span>In any way the world knew how to speak.</span>
+  </p>
+</article>

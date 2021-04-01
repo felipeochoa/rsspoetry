@@ -1,0 +1,134 @@
+The Census-Taker
+---
+<article id="the-census-taker" epub:type="z3998:poem">
+  <h3 epub:type="title">The Census-Taker</h3>
+  <p>
+    <span>I came an errand one cloud-blowing evening</span>
+    <br/>
+    <span>To a slab-built, black-paper-covered house</span>
+    <br/>
+    <span>Of one room and one window and one door,</span>
+    <br/>
+    <span>The only dwelling in a waste cut over</span>
+    <br/>
+    <span>A hundred square miles round it in the mountains:</span>
+    <br/>
+    <span>And that not dwelt in now by men or women</span>
+    <br/>
+    <span>(It never had been dwelt in, though, by women,</span>
+    <br/>
+    <span>So what is this I make a sorrow of?)</span>
+    <br/>
+    <span>I came as census-taker to the waste</span>
+    <br/>
+    <span>To count the people in it and found none,</span>
+    <br/>
+    <span>None in the hundred miles, none in the house,</span>
+    <br/>
+    <span>Where I came last with some hope, but not much</span>
+    <br/>
+    <span>After hours’ overlooking from the cliffs</span>
+    <br/>
+    <span>An emptiness flayed to the very stone.</span>
+    <br/>
+    <span>I found no people that dared show themselves,</span>
+    <br/>
+    <span>None not in hiding from the outward eye.</span>
+    <br/>
+    <span>The time was autumn, but how anyone</span>
+    <br/>
+    <span>Could tell the time of year when every tree</span>
+    <br/>
+    <span>That could have dropped a leaf was down itself</span>
+    <br/>
+    <span>And nothing but the stump of it was left</span>
+    <br/>
+    <span>Now bringing out its rings in sugar of pitch;</span>
+    <br/>
+    <span>And every tree up stood a rotting trunk</span>
+    <br/>
+    <span>Without a single leaf to spend on autumn,</span>
+    <br/>
+    <span>Or branch to whistle after what was spent.</span>
+    <br/>
+    <span>Perhaps the wind the more without the help</span>
+    <br/>
+    <span>Of breathing trees said something of the time</span>
+    <br/>
+    <span>Of year or day the way it swung a door</span>
+    <br/>
+    <span>Forever off the latch, as if rude men</span>
+    <br/>
+    <span>Passed in and slammed it shut each one behind him</span>
+    <br/>
+    <span>For the next one to open for himself.</span>
+    <br/>
+    <span id="the-census-taker-line-31">I counted nine I had no right to count</span>
+    <br/>
+    <span>(But this was dreamy unofficial counting)</span>
+    <br/>
+    <span>Before I made the tenth across the threshold.</span>
+    <br/>
+    <span>Where was my supper? Where was anyone’s?</span>
+    <br/>
+    <span>No lamp was lit. Nothing was on the table.</span>
+    <br/>
+    <span>The stove was cold⁠—the stove was off the chimney⁠—</span>
+    <br/>
+    <span>And down by one side where it lacked a leg.</span>
+    <br/>
+    <span>The people that had loudly passed the door</span>
+    <br/>
+    <span>Were people to the ear but not the eye.</span>
+    <br/>
+    <span>They were not on the table with their elbows.</span>
+    <br/>
+    <span>They were not sleeping in the shelves of bunks.</span>
+    <br/>
+    <span>I saw no men there and no bones of men there.</span>
+    <br/>
+    <span>I armed myself against such bones as might be</span>
+    <br/>
+    <span>With the pitch-blackened stub of an axe-handle</span>
+    <br/>
+    <span>I picked up off the straw-dust covered floor.</span>
+    <br/>
+    <span>Not bones, but the ill-fitted window rattled.</span>
+    <br/>
+    <span>The door was still because I held it shut</span>
+    <br/>
+    <span>While I thought what to do that could be done⁠—</span>
+    <br/>
+    <span>About the house⁠—about the people not there.</span>
+    <br/>
+    <span>This house in one year fallen to decay</span>
+    <br/>
+    <span>Filled me with no less sorrow than the houses</span>
+    <br/>
+    <span>Fallen to ruin in ten thousand years</span>
+    <br/>
+    <span>Where Asia wedges Africa from Europe.</span>
+    <br/>
+    <span>Nothing was left to do that I could see</span>
+    <br/>
+    <span>Unless to find that there was no one there</span>
+    <br/>
+    <span>And declare to the cliffs too far for echo</span>
+    <br/>
+    <span>“The place is desert and let whoso lurks</span>
+    <br/>
+    <span>In silence, if in this he is aggrieved,</span>
+    <br/>
+    <span>Break silence now or be forever silent.</span>
+    <br/>
+    <span>Let him say why it should not be declared so.”</span>
+    <br/>
+    <span>The melancholy of having to count souls</span>
+    <br/>
+    <span>Where they grow fewer and fewer every year</span>
+    <br/>
+    <span>Is extreme where they shrink to none at all.</span>
+    <br/>
+    <span>It must be I want life to go on living.</span>
+  </p>
+</article>

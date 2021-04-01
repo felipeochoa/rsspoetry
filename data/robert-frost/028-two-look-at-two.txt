@@ -1,0 +1,90 @@
+Two Look at Two
+---
+<article id="two-look-at-two" epub:type="z3998:poem">
+  <h3 epub:type="title">Two Look at Two</h3>
+  <p>
+    <span>Love and forgetting might have carried them</span>
+    <br/>
+    <span>A little further up the mountain side</span>
+    <br/>
+    <span>With night so near, but not much further up.</span>
+    <br/>
+    <span>They must have halted soon in any case</span>
+    <br/>
+    <span>With thoughts of the path back, how rough it was</span>
+    <br/>
+    <span>With rock and washout, and unsafe in darkness;</span>
+    <br/>
+    <span>When they were halted by a tumbled wall</span>
+    <br/>
+    <span>With barbed-wire binding. They stood facing this,</span>
+    <br/>
+    <span>Spending what onward impulse they still had</span>
+    <br/>
+    <span>In one last look the way they must not go,</span>
+    <br/>
+    <span>On up the failing path, where, if a stone</span>
+    <br/>
+    <span>Or earthslide moved at night, it moved itself;</span>
+    <br/>
+    <span>No footstep moved it. “This is all,” they sighed,</span>
+    <br/>
+    <span>“Good-night to woods.” But not so; there was more.</span>
+    <br/>
+    <span>A doe from round a spruce stood looking at them</span>
+    <br/>
+    <span>Across the wall, as near the wall as they.</span>
+    <br/>
+    <span>She saw them in their field, they her in hers.</span>
+    <br/>
+    <span>The difficulty of seeing what stood still,</span>
+    <br/>
+    <span>Like some up-ended boulder split in two,</span>
+    <br/>
+    <span>Was in her clouded eyes: they saw no fear there.</span>
+    <br/>
+    <span>She seemed to think that two thus they were safe.</span>
+    <br/>
+    <span>Then, as if they were something that, though strange,</span>
+    <br/>
+    <span>She could not trouble her mind with too long,</span>
+    <br/>
+    <span>She sighed and passed unscared along the wall.</span>
+    <br/>
+    <span>“<em>This</em>, then, is all. What more is there to ask?”</span>
+    <br/>
+    <span>But no, not yet. A snort to bid them wait.</span>
+    <br/>
+    <span>A buck from round the spruce stood looking at them</span>
+    <br/>
+    <span>Across the wall as near the wall as they.</span>
+    <br/>
+    <span>This was an antlered buck of lusty nostril,</span>
+    <br/>
+    <span>Not the same doe come back into her place.</span>
+    <br/>
+    <span>He viewed them quizzically with jerks of head,</span>
+    <br/>
+    <span>As if to ask, “Why don’t you make some motion?</span>
+    <br/>
+    <span>Or give some sign of life? Because you can’t.</span>
+    <br/>
+    <span>I doubt if you’re as living as you look.”</span>
+    <br/>
+    <span>Thus till he had them almost feeling dared</span>
+    <br/>
+    <span>To stretch a proffering hand⁠—and a spell-breaking.</span>
+    <br/>
+    <span>Then he too passed unscared along the wall.</span>
+    <br/>
+    <span>Two had seen two, whichever side you spoke from.</span>
+    <br/>
+    <span>“This <em>must</em> be all.” It was all. Still they stood,</span>
+    <br/>
+    <span>A great wave from it going over them,</span>
+    <br/>
+    <span>As if the earth in one unlooked-for favor</span>
+    <br/>
+    <span>Had made them certain earth returned their love.</span>
+  </p>
+</article>

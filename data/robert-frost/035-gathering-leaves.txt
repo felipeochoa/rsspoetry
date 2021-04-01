@@ -1,0 +1,59 @@
+Gathering Leaves
+---
+<article id="gathering-leaves" epub:type="z3998:poem">
+  <h3 epub:type="title">Gathering Leaves</h3>
+  <p>
+    <span>Spades take up leaves</span>
+    <br/>
+    <span>No better than spoons,</span>
+    <br/>
+    <span>And bags full of leaves</span>
+    <br/>
+    <span>Are light as balloons.</span>
+  </p>
+  <p>
+    <span>I make a great noise</span>
+    <br/>
+    <span>Of rustling all day</span>
+    <br/>
+    <span>Like rabbit and deer</span>
+    <br/>
+    <span>Running away.</span>
+  </p>
+  <p>
+    <span>But the mountains I raise</span>
+    <br/>
+    <span>Elude my embrace,</span>
+    <br/>
+    <span>Flowing over my arms</span>
+    <br/>
+    <span>And into my face.</span>
+  </p>
+  <p>
+    <span>I may load and unload</span>
+    <br/>
+    <span>Again and again</span>
+    <br/>
+    <span>Till I fill the whole shed,</span>
+    <br/>
+    <span>And what have I then?</span>
+  </p>
+  <p>
+    <span>Next to nothing for weight;</span>
+    <br/>
+    <span>And since they grew duller</span>
+    <br/>
+    <span>From contact with earth,</span>
+    <br/>
+    <span>Next to nothing for color.</span>
+  </p>
+  <p>
+    <span>Next to nothing for use.</span>
+    <br/>
+    <span>But a crop is a crop,</span>
+    <br/>
+    <span>And who’s to say where</span>
+    <br/>
+    <span>The harvest shall stop?</span>
+  </p>
+</article>

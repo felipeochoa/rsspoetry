@@ -1,0 +1,23 @@
+Dust of Snow
+---
+<article id="dust-of-snow" epub:type="z3998:poem">
+  <h3 epub:type="title">Dust of Snow</h3>
+  <p>
+    <span>The way a crow</span>
+    <br/>
+    <span>Shook down on me</span>
+    <br/>
+    <span>The dust of snow</span>
+    <br/>
+    <span>From a hemlock tree</span>
+  </p>
+  <p>
+    <span>Has given my heart</span>
+    <br/>
+    <span>A change of mood</span>
+    <br/>
+    <span>And saved some part</span>
+    <br/>
+    <span>Of a day I had rued.</span>
+  </p>
+</article>

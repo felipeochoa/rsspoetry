@@ -1,0 +1,40 @@
+On a Tree Fallen Across the Road
+---
+<article id="on-a-tree-fallen-across-the-road" epub:type="z3998:poem">
+  <header>
+    <h3 epub:type="title">On a Tree Fallen Across the Road</h3>
+    <p epub:type="bridgehead">(To hear us talk)</p>
+  </header>
+  <p>
+    <span>The tree the tempest with a crash of wood</span>
+    <br/>
+    <span>Throws down in front of us is not to bar</span>
+    <br/>
+    <span>Our passage to our journey’s end for good,</span>
+    <br/>
+    <span>But just to ask us who we think we are</span>
+  </p>
+  <p>
+    <span>Insisting always on our own way so.</span>
+    <br/>
+    <span>She likes to halt us in our runner tracks,</span>
+    <br/>
+    <span>And make us get down in a foot of snow</span>
+    <br/>
+    <span>Debating what to do without an axe.</span>
+  </p>
+  <p>
+    <span>And yet she knows obstruction is in vain:</span>
+    <br/>
+    <span>We will not be put off the final goal</span>
+    <br/>
+    <span>We have it hidden in us to attain,</span>
+    <br/>
+    <span>Not though we have to seize earth by the pole</span>
+  </p>
+  <p>
+    <span>And, tired of aimless circling in one place,</span>
+    <br/>
+    <span>Steer straight off after something into space.</span>
+  </p>
+</article>

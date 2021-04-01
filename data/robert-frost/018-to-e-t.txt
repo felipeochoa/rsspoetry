@@ -1,0 +1,50 @@
+To <abbr class="name">E. T.</abbr>
+---
+<article id="to-e-t" epub:type="z3998:poem">
+  <h3 epub:type="title">To <abbr class="name">E. T.</abbr></h3>
+  <p>
+    <span>I slumbered with your poems on my breast</span>
+    <br/>
+    <span>Spread open as I dropped them half-read through</span>
+    <br/>
+    <span>Like dove wings on a figure on a tomb</span>
+    <br/>
+    <span>To see, if in a dream they brought of you,</span>
+  </p>
+  <p>
+    <span>I might not have the chance I missed in life</span>
+    <br/>
+    <span>Through some delay, and call you to your face</span>
+    <br/>
+    <span>First soldier, and then poet, and then both,</span>
+    <br/>
+    <span>Who died a soldier-poet of your race.</span>
+  </p>
+  <p>
+    <span>I meant, you meant, that nothing should remain</span>
+    <br/>
+    <span>Unsaid between us, brother, and this remained⁠—</span>
+    <br/>
+    <span>And one thing more that was not then to say:</span>
+    <br/>
+    <span>The Victory for what it lost and gained.</span>
+  </p>
+  <p>
+    <span>You went to meet the shell’s embrace of fire</span>
+    <br/>
+    <span>On Vimy Ridge; and when you fell that day</span>
+    <br/>
+    <span>The war seemed over more for you than me,</span>
+    <br/>
+    <span>But now for me than you⁠—the other way.</span>
+  </p>
+  <p>
+    <span>How over, though, for even me who knew</span>
+    <br/>
+    <span>The foe thrust back unsafe beyond the Rhine,</span>
+    <br/>
+    <span>If I was not to speak of it to you</span>
+    <br/>
+    <span>And see you pleased once more with words of mine?</span>
+  </p>
+</article>

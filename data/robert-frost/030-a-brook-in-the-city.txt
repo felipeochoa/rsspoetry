@@ -1,0 +1,54 @@
+A Brook in the City
+---
+<article id="a-brook-in-the-city" epub:type="z3998:poem">
+  <h3 epub:type="title">A Brook in the City</h3>
+  <p>
+    <span>The farm house lingers, though averse to square</span>
+    <br/>
+    <span>With the new city street it has to wear</span>
+    <br/>
+    <span>A number in. But what about the brook</span>
+    <br/>
+    <span>That held the house as in an elbow-crook?</span>
+    <br/>
+    <span>I ask as one who knew the brook, its strength</span>
+    <br/>
+    <span>And impulse, having dipped a finger length</span>
+    <br/>
+    <span>And made it leap my knuckle, having tossed</span>
+    <br/>
+    <span>A flower to try its currents where they crossed.</span>
+    <br/>
+    <span>The meadow grass could be cemented down</span>
+    <br/>
+    <span>From growing under pavements of a town;</span>
+    <br/>
+    <span>The apple trees be sent to hearth-stone flame.</span>
+    <br/>
+    <span>Is water wood to serve a brook the same?</span>
+    <br/>
+    <span>How else dispose of an immortal force</span>
+    <br/>
+    <span>No longer needed? Staunch it at its source</span>
+    <br/>
+    <span>With cinder loads dumped down? The brook was thrown</span>
+    <br/>
+    <span>Deep in a sewer dungeon under stone</span>
+    <br/>
+    <span>In fetid darkness still to live and run⁠—</span>
+    <br/>
+    <span>And all for nothing it had ever done</span>
+    <br/>
+    <span>Except forget to go in fear perhaps.</span>
+    <br/>
+    <span>No one would know except for ancient maps</span>
+    <br/>
+    <span>That such a brook ran water. But I wonder</span>
+    <br/>
+    <span>If from its being kept forever under</span>
+    <br/>
+    <span>The thoughts may not have risen that so keep</span>
+    <br/>
+    <span>This new-built city from both work and sleep.</span>
+  </p>
+</article>

@@ -1,0 +1,59 @@
+The Need of Being Versed in Country Things
+---
+<article id="the-need-of-being-versed-in-country-things" epub:type="z3998:poem">
+  <h3 epub:type="title">The Need of Being Versed in Country Things</h3>
+  <p>
+    <span>The house had gone to bring again</span>
+    <br/>
+    <span>To the midnight sky a sunset glow.</span>
+    <br/>
+    <span>Now the chimney was all of the house that stood,</span>
+    <br/>
+    <span>Like a pistil after the petals go.</span>
+  </p>
+  <p>
+    <span>The barn opposed across the way,</span>
+    <br/>
+    <span>That would have joined the house in flame</span>
+    <br/>
+    <span>Had it been the will of the wind, was left</span>
+    <br/>
+    <span>To bear forsaken the place’s name.</span>
+  </p>
+  <p>
+    <span>No more it opened with all one end</span>
+    <br/>
+    <span>For teams that came by the stony road</span>
+    <br/>
+    <span>To drum on the floor with scurrying hoofs</span>
+    <br/>
+    <span>And brush the mow with the summer load.</span>
+  </p>
+  <p>
+    <span>The birds that came to it through the air</span>
+    <br/>
+    <span>At broken windows flew out and in,</span>
+    <br/>
+    <span>Their murmur more like the sigh we sigh</span>
+    <br/>
+    <span>From too much dwelling on what has been.</span>
+  </p>
+  <p>
+    <span>Yet for them the lilac renewed its leaf,</span>
+    <br/>
+    <span>And the aged elm, though touched with fire;</span>
+    <br/>
+    <span>And the dry pump flung up an awkward arm;</span>
+    <br/>
+    <span>And the fence post carried a strand of wire.</span>
+  </p>
+  <p>
+    <span>For them there was really nothing sad.</span>
+    <br/>
+    <span>But though they rejoiced in the nest they kept,</span>
+    <br/>
+    <span>One had to be versed in country things</span>
+    <br/>
+    <span>Not to believe the phoebes wept.</span>
+  </p>
+</article>

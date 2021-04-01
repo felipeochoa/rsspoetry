@@ -1,0 +1,222 @@
+The Axe-Helve
+---
+<article id="the-axe-helve" epub:type="z3998:poem">
+  <h3 epub:type="title">The Axe-Helve</h3>
+  <p>
+    <span>I’ve known ere now an interfering branch</span>
+    <br/>
+    <span>Of alder catch my lifted axe behind me.</span>
+    <br/>
+    <span>But that was in the woods, to hold my hand</span>
+    <br/>
+    <span>From striking at another alder’s roots,</span>
+    <br/>
+    <span>And that was, as I say, an alder branch.</span>
+    <br/>
+    <span>This was a man, Baptiste, who stole one day</span>
+    <br/>
+    <span>Behind me on the snow in my own yard</span>
+    <br/>
+    <span>Where I was working at the chopping-block,</span>
+    <br/>
+    <span>And cutting nothing not cut down already.</span>
+    <br/>
+    <span>He caught my axe expertly on the rise,</span>
+    <br/>
+    <span>When all my strength put forth was in his favor,</span>
+    <br/>
+    <span>Held it a moment where it was, to calm me,</span>
+    <br/>
+    <span>Then took it from me⁠—and I let him take it.</span>
+    <br/>
+    <span>I didn’t know him well enough to know</span>
+    <br/>
+    <span>What it was all about. There might be something</span>
+    <br/>
+    <span>He had in mind to say to a bad neighbor</span>
+    <br/>
+    <span>He might prefer to say to him disarmed.</span>
+    <br/>
+    <span>But all he had to tell me in French-English</span>
+    <br/>
+    <span>Was what he thought of⁠—not me, but my axe;</span>
+    <br/>
+    <span>Me only as I took my axe to heart.</span>
+    <br/>
+    <span>It was the bad axe-helve some one had sold me⁠—</span>
+    <br/>
+    <span>“Made on machine,” he said, ploughing the grain</span>
+    <br/>
+    <span>With a thick thumbnail to show how it ran</span>
+    <br/>
+    <span>Across the handle’s long drawn serpentine,</span>
+    <br/>
+    <span>Like the two strokes across a dollar sign.</span>
+    <br/>
+    <span>“You give her one good crack, she’s snap raght off.</span>
+    <br/>
+    <span>Den where’s your hax-ead flying t’rough de hair?”</span>
+    <br/>
+    <span>Admitted; and yet, what was that to him?</span>
+  </p>
+  <p>
+    <span>“Come on my house and I put you one in</span>
+    <br/>
+    <span>What’s las’ awhile⁠—good hick’ry what’s grow crooked,</span>
+    <br/>
+    <span>De second growt’ I cut myself⁠—tough, tough!”</span>
+  </p>
+  <p>
+    <span>Something to sell? That wasn’t how it sounded.</span>
+  </p>
+  <p>
+    <span>“Den when you say you come? It’s cost you nothing.</span>
+    <br/>
+    <span>To-naght?”</span>
+  </p>
+  <p>
+    <span class="i5">As well to-night as any night.</span>
+  </p>
+  <p>
+    <span>Beyond an over-warmth of kitchen stove</span>
+    <br/>
+    <span>My welcome differed from no other welcome.</span>
+    <br/>
+    <span>Baptiste knew best why I was where I was.</span>
+    <br/>
+    <span>So long as he would leave enough unsaid,</span>
+    <br/>
+    <span>I shouldn’t mind his being overjoyed</span>
+    <br/>
+    <span>(If overjoyed he was) at having got me</span>
+    <br/>
+    <span>Where I must judge if what he knew about an axe</span>
+    <br/>
+    <span>That not everybody else knew was to count</span>
+    <br/>
+    <span>For nothing in the measure of a neighbor.</span>
+    <br/>
+    <span>Hard if, though cast away for life with Yankees,</span>
+    <br/>
+    <span>A Frenchman couldn’t get his human rating!</span>
+  </p>
+  <p>
+    <span><abbr>Mrs.</abbr> Baptiste came in and rocked a chair</span>
+    <br/>
+    <span>That had as many motions as the world:</span>
+    <br/>
+    <span>One back and forward, in and out of shadow,</span>
+    <br/>
+    <span>That got her nowhere; one more gradual,</span>
+    <br/>
+    <span>Sideways, that would have run her on the stove</span>
+    <br/>
+    <span>In time, had she not realized her danger</span>
+    <br/>
+    <span>And caught herself up bodily, chair and all,</span>
+    <br/>
+    <span>And set herself back where she started from.</span>
+    <br/>
+    <span>“She ain’t spick too much Henglish⁠—dat’s too bad.”</span>
+  </p>
+  <p>
+    <span>I was afraid, in brightening first on me,</span>
+    <br/>
+    <span>Then on Baptiste, as if she understood</span>
+    <br/>
+    <span>What passed between us, she was only feigning.</span>
+    <br/>
+    <span>Baptiste was anxious for her; but no more</span>
+    <br/>
+    <span>Than for himself, so placed he couldn’t hope</span>
+    <br/>
+    <span>To keep his bargain of the morning with me</span>
+    <br/>
+    <span>In time to keep me from suspecting him</span>
+    <br/>
+    <span>Of really never having meant to keep it.</span>
+  </p>
+  <p>
+    <span>Needlessly soon he had his axe-helves out,</span>
+    <br/>
+    <span>A quiverful to choose from, since he wished me</span>
+    <br/>
+    <span>To have the best he had, or had to spare⁠—</span>
+    <br/>
+    <span>Not for me to ask which, when what he took</span>
+    <br/>
+    <span>Had beauties he had to point me out at length</span>
+    <br/>
+    <span>To insure their not being wasted on me.</span>
+    <br/>
+    <span>He liked to have it slender as a whipstock,</span>
+    <br/>
+    <span>Free from the least knot, equal to the strain</span>
+    <br/>
+    <span>Of bending like a sword across the knee.</span>
+    <br/>
+    <span>He showed me that the lines of a good helve</span>
+    <br/>
+    <span>Were native to the grain before the knife</span>
+    <br/>
+    <span>Expressed them, and its curves were no false curves</span>
+    <br/>
+    <span>Put on it from without. And there its strength lay</span>
+    <br/>
+    <span>For the hard work. He chafed its long white body</span>
+    <br/>
+    <span>From end to end with his rough hand shut round it.</span>
+    <br/>
+    <span>He tried it at the eye-hole in the axe-head.</span>
+    <br/>
+    <span>“Hahn, hahn,” he mused, “don’t need much taking down.”</span>
+    <br/>
+    <span>Baptiste knew how to make a short job long</span>
+    <br/>
+    <span>For love of it, and yet not waste time either.</span>
+  </p>
+  <p>
+    <span>Do you know, what we talked about was knowledge?</span>
+    <br/>
+    <span>Baptiste on his defence about the children</span>
+    <br/>
+    <span>He kept from school, or did his best to keep⁠—</span>
+    <br/>
+    <span>Whatever school and children and our doubts</span>
+    <br/>
+    <span>Of laid-on education had to do</span>
+    <br/>
+    <span>With the curves of his axe-helves and his having</span>
+    <br/>
+    <span>Used these unscrupulously to bring me</span>
+    <br/>
+    <span>To see for once the inside of his house.</span>
+    <br/>
+    <span>Was I desired in friendship, partly as some one</span>
+    <br/>
+    <span>To leave it to, whether the right to hold</span>
+    <br/>
+    <span>Such doubts of education should depend</span>
+    <br/>
+    <span>Upon the education of those who held them?</span>
+  </p>
+  <p>
+    <span>But now he brushed the shavings from his knee</span>
+    <br/>
+    <span>And stood the axe there on its horse’s hoof,</span>
+    <br/>
+    <span>Erect, but not without its waves, as when</span>
+    <br/>
+    <span>The snake stood up for evil in the Garden⁠—</span>
+    <br/>
+    <span>Top-heavy with a heaviness his short,</span>
+    <br/>
+    <span>Thick hand made light of, steel-blue chin drawn down</span>
+    <br/>
+    <span>And in a little⁠—a French touch in that.</span>
+    <br/>
+    <span>Baptiste drew back and squinted at it, pleased;</span>
+    <br/>
+    <span>“See how she’s cock her head!”</span>
+  </p>
+</article>

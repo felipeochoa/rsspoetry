@@ -1,0 +1,22 @@
+Nothing Gold Can Stay
+---
+<article id="nothing-gold-can-stay" epub:type="z3998:poem">
+  <h3 epub:type="title">Nothing Gold Can Stay</h3>
+  <p>
+    <span>Nature’s first green is gold,</span>
+    <br/>
+    <span>Her hardest hue to hold.</span>
+    <br/>
+    <span>Her early leaf’s a flower;</span>
+    <br/>
+    <span>But only so an hour.</span>
+    <br/>
+    <span>Then leaf subsides to leaf.</span>
+    <br/>
+    <span>So Eden sank to grief,</span>
+    <br/>
+    <span>So dawn goes down to day.</span>
+    <br/>
+    <span>Nothing gold can stay.</span>
+  </p>
+</article>

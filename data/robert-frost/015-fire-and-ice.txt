@@ -1,0 +1,24 @@
+Fire and Ice
+---
+<article id="fire-and-ice" epub:type="z3998:poem">
+  <h3 epub:type="title">Fire and Ice</h3>
+  <p>
+    <span>Some say the world will end in fire,</span>
+    <br/>
+    <span>Some say in ice.</span>
+    <br/>
+    <span>From what I’ve tasted of desire</span>
+    <br/>
+    <span>I hold with those who favor fire.</span>
+    <br/>
+    <span>But if it had to perish twice,</span>
+    <br/>
+    <span>I think I know enough of hate</span>
+    <br/>
+    <span>To say that for destruction ice</span>
+    <br/>
+    <span>Is also great</span>
+    <br/>
+    <span>And would suffice.</span>
+  </p>
+</article>

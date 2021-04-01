@@ -1,0 +1,41 @@
+Stopping by Woods on a Snowy Evening
+---
+<article id="stopping-by-woods-on-a-snowy-evening" epub:type="z3998:poem">
+  <h3 epub:type="title">Stopping by Woods on a Snowy Evening</h3>
+  <p>
+    <span>Whose woods these are I think I know.</span>
+    <br/>
+    <span>His house is in the village though;</span>
+    <br/>
+    <span>He will not see me stopping here</span>
+    <br/>
+    <span>To watch his woods fill up with snow.</span>
+  </p>
+  <p>
+    <span>My little horse must think it queer</span>
+    <br/>
+    <span>To stop without a farmhouse near</span>
+    <br/>
+    <span>Between the woods and frozen lake</span>
+    <br/>
+    <span>The darkest evening of the year.</span>
+  </p>
+  <p>
+    <span>He gives his harness bells a shake</span>
+    <br/>
+    <span>To ask if there is some mistake.</span>
+    <br/>
+    <span>The only other sound’s the sweep</span>
+    <br/>
+    <span>Of easy wind and downy flake.</span>
+  </p>
+  <p>
+    <span>The woods are lovely, dark and deep,</span>
+    <br/>
+    <span>But I have promises to keep,</span>
+    <br/>
+    <span>And miles to go before I sleep,</span>
+    <br/>
+    <span>And miles to go before I sleep.</span>
+  </p>
+</article>
