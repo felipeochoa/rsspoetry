@@ -44,7 +44,7 @@ let take i list =
 
 type rss_item = {title: string; pub_date: Date.t; creator: string; guid: string; description: string; content: string}
 
-let xml_gen feed_path items =
+let xml_gen feed_path feed_title items =
   let buf = Buffer.create 10000 in
   Buffer.add_string buf "<?xml version='1.0' encoding='UTF-8'?>";
   Xml.write_element buf @@
@@ -57,11 +57,11 @@ let xml_gen feed_path items =
                    "xmlns:dc", "http://purl.org/dc/elements/1.1/"] [
         Xml.tag "channel" [] @@
           List.append [
-            Xml.tag "title" [] [Xml.text "RSS Poetry"];
+            Xml.tag "title" [] [Xml.text @@ "Read in RSS | " ^ feed_title];
             Xml.tag "atom:link" ["href", "https://readinrss.com" ^ feed_path;
                                  "rel", "self";
                                  "type", "application/rss+xml"] [];
-            Xml.tag "link" [] [Xml.text "https://rsspoetry.com"];
+            Xml.tag "link" [] [Xml.text @@ "https://readinrss.com" ^ feed_path];
 	    Xml.tag "description" [] [Xml.text "Daily poem"];
 	    Xml.tag "lastBuildDate" [] [Xml.text (Date.rfc2822 @@ Date.today ())];
 	    Xml.tag "language" [] [Xml.text "en-US"];
@@ -77,7 +77,7 @@ let xml_gen feed_path items =
                        Xml.tag "dc:creator" [] [Xml.cdata creator];
                        Xml.tag "guid" ["isPermaLink", "false"] [Xml.text guid];
                        Xml.tag "description" [] [Xml.cdata description];
-                       Xml.tag "content:encoded" [] [Xml.cdata @@ Printf.sprintf "<pre>%s</pre>" content];
+                       Xml.tag "content:encoded" [] [Xml.cdata content];
                      ]
                  )
           )
@@ -98,6 +98,7 @@ let server =
     let path = req |> Request.uri |> Uri.path in
     let+ (author_id, date) = get_feed path in
     let+ all_articles = List.assoc_opt author_id data in
+    let author = (List.assoc author_id author_names) in
     let num_articles = Date.days_between date (Date.today ()) |> (max 0) |> (+) 1 in
     let articles = take num_articles all_articles in
     let day = ref date in
@@ -116,8 +117,8 @@ let server =
       }
     in
     articles
-    |> List.map @@ item_of_article (List.assoc author_id author_names) (next_day ())
-    |> xml_gen path
+    |> List.map @@ item_of_article author (next_day ())
+    |> xml_gen path (author ^ " | " ^ Date.to_string date)
     |> Option.some
   in
   let callback _conn req _body =

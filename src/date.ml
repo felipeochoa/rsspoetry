@@ -41,6 +41,8 @@ let rfc2822 {year; month; day} =
   let month_names = [|"Jan"; "Feb"; "Mar"; "Apr"; "May"; "Jun"; "Jul"; "Aug"; "Sep"; "Oct"; "Nov"; "Dec"|] in
   Printf.sprintf "%s %s %d 00:00:00 GMT" (pad0 day) (month_names.(month - 1)) year
 
+let to_string {year; month; day} = Printf.sprintf "%d-%d-%d" year month day
+
 let days_between d1 d2 =
   let julian_day_number {year; month; day} =
     (1461 * (year + 4800 + (month - 14)/12))/4
