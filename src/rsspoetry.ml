@@ -122,12 +122,19 @@ let server =
     |> Option.some
   in
   let callback _conn req _body =
-    Printf.printf "%s %s\n%!" (req |> Request.meth |> Code.string_of_method) (req |> Request.uri |> Uri.to_string);
-    if (Request.meth req != `GET)
-    then Server.respond_not_found ()
-    else match body_fn req with
-         | None -> Server.respond_not_found ()
-         | Some body -> Server.respond_string ~status:`OK ~body ()
+    let start = Unix.gettimeofday () in
+    let res = if (Request.meth req != `GET) then None else body_fn req in
+    Printf.printf "%s %s %d (%.2fms) \"%s\"\n%!"
+      (req |> Request.meth |> Code.string_of_method)
+      (req |> Request.uri |> Uri.path_and_query)
+      (if Option.is_none res then 404 else 200)
+      (let d = (Unix.gettimeofday ()) -. start in
+       (if d < 0. then d +. (24. *. 60. *. 60.) else d) *. 1000.)
+      (req |> Request.headers |> Fun.flip Header.get "User-Agent" |> Option.value ~default:"");
+      match res with
+        | None -> Server.respond_not_found ()
+        | Some body -> Server.respond_string ~status:`OK ~body ()
+
   in
   Printf.printf "Starting server on 10101\n%!";
   Server.create ~mode:(`TCP (`Port 10101)) (Server.make ~callback ())
