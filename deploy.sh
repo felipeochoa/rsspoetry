@@ -36,5 +36,18 @@ git reset --hard origin/master
 echo "Building latest server"
 dune build
 
-# TODO: Convert into systemd unit and start/restart after build
-dune exec src/rsspoetry.exe data/
+LOGDIR=/var/log/rsspoetry
+
+# TODO: Why won't running under daemon work?
+# daemon --noconfig --stop --name rsspoetry || true
+# daemon --noconfig --name rsspoetry --output=$LOGDIR/access.log --errlog=$LOGDIR/daemon-error.log \
+#        --respawn -- _build/default/src/rsspoetry.exe data/
+
+RUNNING_PID=$(lsof -t -i tcp:10101)
+
+if [ ! -z $RUNNING_PID ]; then
+    kill $RUNNING_PID
+fi
+
+umask 022
+nohup setsid _build/default/src/rsspoetry.exe data/ 2>>$LOGDIR/error.log >>$LOGDIR/access.log &
