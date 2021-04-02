@@ -46,8 +46,10 @@ LOGDIR=/var/log/rsspoetry
 RUNNING_PID=$(lsof -t -i tcp:10101)
 
 if [ ! -z $RUNNING_PID ]; then
+    echo "Killing $RUNNING_PID daemon"
     kill $RUNNING_PID
 fi
 
 umask 022
 nohup setsid _build/default/src/rsspoetry.exe data/ 2>>$LOGDIR/error.log >>$LOGDIR/access.log &
+echo "Started server"
