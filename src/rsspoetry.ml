@@ -124,6 +124,7 @@ let server =
     in
     articles
     |> List.map (fun a -> item_of_article author (next_day ()) a)
+    |> List.rev |> take 5
     |> xml_gen path (author ^ " | " ^ Date.to_string date)
     |> Option.some
   in
