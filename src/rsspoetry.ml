@@ -15,18 +15,20 @@ let (and+) o1 o2 =
 (* Regexp to match a valid feed path /<author>/YYYY-MM-DD/ *)
 let feed_re =
   let open Re in
-  let digitsn n = repn digit n (Some n) |> group in
+  let digitsn n = repn digit n (Some n) in
   let author = alt [alnum; char '-'] |> rep1 in
   let date = seq [digitsn 4; char '-'; digitsn 2; char '-'; digitsn 2] in
-  seq [bos; char '/'; group author; char '/'; group date; opt (char '/'); eos]
+  let time = seq [digitsn 2; char ':'; digitsn 2; char ':'; digitsn 2] in
+  seq [bos; char '/'; group author; char '/'; group date; char 'T'; group time; char 'Z'; opt (char '/'); eos]
   |> compile
 
 (* Parse a feed URI into an author/date pair *)
 let get_feed uri_path =
   let+ groups = Re.exec_opt feed_re uri_path in
-  let author_s, date_s = (Re.Group.get groups 1, Re.Group.get groups 2) in
-  let+ date = Date.of_string date_s
-  in Some (author_s, date)
+  let author_s, date_s, time_s = (Re.Group.get groups 1, Re.Group.get groups 2, Re.Group.get groups 3) in
+  let+ date = Date.of_string date_s in
+  let+ time = Time.of_string time_s in
+  Some (author_s, date, time)
 
 (* Like Array.fold_left, but including an index argument *)
 let fold_left_i fn init arr =
@@ -96,10 +98,14 @@ let author_names = Library.load_author_names Sys.argv.(1)
 let server =
   let body_fn req =
     let path = req |> Request.uri |> Uri.path in
-    let+ (author_id, date) = get_feed path in
+    let+ (author_id, date, time) = get_feed path in
     let+ all_articles = List.assoc_opt author_id data in
     let author = (List.assoc author_id author_names) in
-    let num_articles = Date.days_between date (Date.today ()) |> (max 0) |> (+) 1 in
+    let num_articles =
+      Date.days_between date (Date.today ())
+      + (if time >= (Time.now ()) then 1 else 0)
+      |> (max 0)
+    in
     let articles = take num_articles all_articles in
     let day = ref date in
     let next_day () =
