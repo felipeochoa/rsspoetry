@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Read in RSS</title>
+  <link rel="stylesheet" href="main.css" type="text/css">
+</head>
+<body>
+  <h1>Read in RSS</h1>
+  <p class="subtitle">Read classic poetry in your RSS feed.</p>
+  <section>
+    <h2>How does it work?</h2>
+    <p>
+      Select a <em>collection</em>, start date, and publish time in the form below. Then paste the
+      generated link into your RSS reader to subscribe.
+    </p>
+    <p>
+      New poems will be published to the generated feed every day at the specified time until the
+      end of the collection.
+    </p>
+  </section>
+  <section>
+    <h2>Can I add my own collection?</h2>
+    <p>Yes! If there’s a public domain poetry collection you'd like to add, you can create an issue <a href="https://github.com/felipeochoa/rsspoetry/issues/new">here</a>, including a link to the collection</p>
+  </section>
+  <section id="generator" style="display: none">
+    <h2>Generate feed</h2>
+    <form onsubmit="return false">
+      <label>
+        <span>Select a collection</span>
+        <select name="collection">
+          <option value="robert-frost">“New Hampshire” by Robert Frost</option>
+        </select>
+      </label>
+      <label>
+        <span>Date of first poem delivery</span>
+        <input type="date" name="start-date">
+      </label>
+      <label>
+        <span>When would you like your poems published?</span>
+        <input type="time" name="pubtime">
+      </label>
+      <input type="hidden" name="tzoffset">
+    </form>
+    <p>
+      <span>Feed URL</span>
+      <a id="feed-url" href=""></a>
+    </p>
+  </section>
+  <script type="text/javascript" src="main.bc.runtime.js"></script>
+  <script type="text/javascript" src="main.bc.js"></script>
+</body>
+</html>
